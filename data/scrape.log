@@ -1,0 +1,489 @@
+
+=== Season 2015 (details from dump) ===
+  GET https://api.jolpi.ca/ergast/f1/2015/races.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2015/drivers.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2015/constructors.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2015/results.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2015/results.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2015/results.json?limit=100&offset=200
+  GET https://api.jolpi.ca/ergast/f1/2015/results.json?limit=100&offset=300
+  GET https://api.jolpi.ca/ergast/f1/2015/qualifying.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2015/qualifying.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2015/qualifying.json?limit=100&offset=200
+  GET https://api.jolpi.ca/ergast/f1/2015/qualifying.json?limit=100&offset=300
+Round  1 Australian Grand Prix
+Round  2 Malaysian Grand Prix
+Round  3 Chinese Grand Prix
+Round  4 Bahrain Grand Prix
+Round  5 Spanish Grand Prix
+Round  6 Monaco Grand Prix
+Round  7 Canadian Grand Prix
+Round  8 Austrian Grand Prix
+Round  9 British Grand Prix
+Round 10 Hungarian Grand Prix
+Round 11 Belgian Grand Prix
+Round 12 Italian Grand Prix
+Round 13 Singapore Grand Prix
+Round 14 Japanese Grand Prix
+Round 15 Russian Grand Prix
+Round 16 United States Grand Prix
+Round 17 Mexican Grand Prix
+Round 18 Brazilian Grand Prix
+Round 19 Abu Dhabi Grand Prix
+
+=== Season 2016 (details from dump) ===
+  GET https://api.jolpi.ca/ergast/f1/2016/races.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2016/drivers.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2016/constructors.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2016/results.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2016/results.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2016/results.json?limit=100&offset=200
+  GET https://api.jolpi.ca/ergast/f1/2016/results.json?limit=100&offset=300
+  GET https://api.jolpi.ca/ergast/f1/2016/results.json?limit=100&offset=400
+  GET https://api.jolpi.ca/ergast/f1/2016/qualifying.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2016/qualifying.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2016/qualifying.json?limit=100&offset=200
+  GET https://api.jolpi.ca/ergast/f1/2016/qualifying.json?limit=100&offset=300
+  GET https://api.jolpi.ca/ergast/f1/2016/qualifying.json?limit=100&offset=400
+Round  1 Australian Grand Prix
+Round  2 Bahrain Grand Prix
+Round  3 Chinese Grand Prix
+Round  4 Russian Grand Prix
+Round  5 Spanish Grand Prix
+Round  6 Monaco Grand Prix
+Round  7 Canadian Grand Prix
+Round  8 European Grand Prix
+Round  9 Austrian Grand Prix
+Round 10 British Grand Prix
+Round 11 Hungarian Grand Prix
+Round 12 German Grand Prix
+Round 13 Belgian Grand Prix
+Round 14 Italian Grand Prix
+Round 15 Singapore Grand Prix
+Round 16 Malaysian Grand Prix
+Round 17 Japanese Grand Prix
+Round 18 United States Grand Prix
+Round 19 Mexican Grand Prix
+Round 20 Brazilian Grand Prix
+Round 21 Abu Dhabi Grand Prix
+
+=== Season 2017 (details from dump) ===
+  GET https://api.jolpi.ca/ergast/f1/2017/races.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2017/drivers.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2017/constructors.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2017/results.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2017/results.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2017/results.json?limit=100&offset=200
+  GET https://api.jolpi.ca/ergast/f1/2017/results.json?limit=100&offset=300
+  GET https://api.jolpi.ca/ergast/f1/2017/qualifying.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2017/qualifying.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2017/qualifying.json?limit=100&offset=200
+  GET https://api.jolpi.ca/ergast/f1/2017/qualifying.json?limit=100&offset=300
+Round  1 Australian Grand Prix
+Round  2 Chinese Grand Prix
+Round  3 Bahrain Grand Prix
+Round  4 Russian Grand Prix
+Round  5 Spanish Grand Prix
+Round  6 Monaco Grand Prix
+Round  7 Canadian Grand Prix
+Round  8 Azerbaijan Grand Prix
+Round  9 Austrian Grand Prix
+Round 10 British Grand Prix
+Round 11 Hungarian Grand Prix
+Round 12 Belgian Grand Prix
+Round 13 Italian Grand Prix
+Round 14 Singapore Grand Prix
+Round 15 Malaysian Grand Prix
+Round 16 Japanese Grand Prix
+Round 17 United States Grand Prix
+Round 18 Mexican Grand Prix
+Round 19 Brazilian Grand Prix
+Round 20 Abu Dhabi Grand Prix
+
+=== Season 2018 (details from dump) ===
+  GET https://api.jolpi.ca/ergast/f1/2018/races.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2018/drivers.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2018/constructors.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2018/results.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2018/results.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2018/results.json?limit=100&offset=200
+  GET https://api.jolpi.ca/ergast/f1/2018/results.json?limit=100&offset=300
+  GET https://api.jolpi.ca/ergast/f1/2018/results.json?limit=100&offset=400
+  GET https://api.jolpi.ca/ergast/f1/2018/qualifying.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2018/qualifying.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2018/qualifying.json?limit=100&offset=200
+  GET https://api.jolpi.ca/ergast/f1/2018/qualifying.json?limit=100&offset=300
+  GET https://api.jolpi.ca/ergast/f1/2018/qualifying.json?limit=100&offset=400
+Round  1 Australian Grand Prix
+Round  2 Bahrain Grand Prix
+Round  3 Chinese Grand Prix
+Round  4 Azerbaijan Grand Prix
+Round  5 Spanish Grand Prix
+Round  6 Monaco Grand Prix
+Round  7 Canadian Grand Prix
+Round  8 French Grand Prix
+Round  9 Austrian Grand Prix
+Round 10 British Grand Prix
+Round 11 German Grand Prix
+Round 12 Hungarian Grand Prix
+Round 13 Belgian Grand Prix
+Round 14 Italian Grand Prix
+Round 15 Singapore Grand Prix
+Round 16 Russian Grand Prix
+Round 17 Japanese Grand Prix
+Round 18 United States Grand Prix
+Round 19 Mexican Grand Prix
+Round 20 Brazilian Grand Prix
+Round 21 Abu Dhabi Grand Prix
+
+=== Season 2019 (details from dump) ===
+  GET https://api.jolpi.ca/ergast/f1/2019/races.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2019/drivers.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2019/constructors.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2019/results.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2019/results.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2019/results.json?limit=100&offset=200
+  GET https://api.jolpi.ca/ergast/f1/2019/results.json?limit=100&offset=300
+  GET https://api.jolpi.ca/ergast/f1/2019/results.json?limit=100&offset=400
+  GET https://api.jolpi.ca/ergast/f1/2019/qualifying.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2019/qualifying.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2019/qualifying.json?limit=100&offset=200
+  GET https://api.jolpi.ca/ergast/f1/2019/qualifying.json?limit=100&offset=300
+  GET https://api.jolpi.ca/ergast/f1/2019/qualifying.json?limit=100&offset=400
+Round  1 Australian Grand Prix
+Round  2 Bahrain Grand Prix
+Round  3 Chinese Grand Prix
+Round  4 Azerbaijan Grand Prix
+Round  5 Spanish Grand Prix
+Round  6 Monaco Grand Prix
+Round  7 Canadian Grand Prix
+Round  8 French Grand Prix
+Round  9 Austrian Grand Prix
+Round 10 British Grand Prix
+Round 11 German Grand Prix
+Round 12 Hungarian Grand Prix
+Round 13 Belgian Grand Prix
+Round 14 Italian Grand Prix
+Round 15 Singapore Grand Prix
+Round 16 Russian Grand Prix
+Round 17 Japanese Grand Prix
+Round 18 Mexican Grand Prix
+Round 19 United States Grand Prix
+Round 20 Brazilian Grand Prix
+Round 21 Abu Dhabi Grand Prix
+
+=== Season 2020 (details from dump) ===
+  GET https://api.jolpi.ca/ergast/f1/2020/races.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2020/drivers.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2020/constructors.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2020/results.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2020/results.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2020/results.json?limit=100&offset=200
+  GET https://api.jolpi.ca/ergast/f1/2020/results.json?limit=100&offset=300
+  GET https://api.jolpi.ca/ergast/f1/2020/qualifying.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2020/qualifying.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2020/qualifying.json?limit=100&offset=200
+  GET https://api.jolpi.ca/ergast/f1/2020/qualifying.json?limit=100&offset=300
+Round  1 Austrian Grand Prix
+Round  2 Styrian Grand Prix
+Round  3 Hungarian Grand Prix
+Round  4 British Grand Prix
+Round  5 70th Anniversary Grand Prix
+Round  6 Spanish Grand Prix
+Round  7 Belgian Grand Prix
+Round  8 Italian Grand Prix
+Round  9 Tuscan Grand Prix
+Round 10 Russian Grand Prix
+Round 11 Eifel Grand Prix
+Round 12 Portuguese Grand Prix
+Round 13 Emilia Romagna Grand Prix
+Round 14 Turkish Grand Prix
+Round 15 Bahrain Grand Prix
+Round 16 Sakhir Grand Prix
+Round 17 Abu Dhabi Grand Prix
+
+=== Season 2021 (details from dump) ===
+  GET https://api.jolpi.ca/ergast/f1/2021/races.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2021/drivers.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2021/constructors.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2021/results.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2021/results.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2021/results.json?limit=100&offset=200
+  GET https://api.jolpi.ca/ergast/f1/2021/results.json?limit=100&offset=300
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2021/results.json?limit=100&offset=400
+  GET https://api.jolpi.ca/ergast/f1/2021/qualifying.json?limit=100&offset=0
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2021/qualifying.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2021/qualifying.json?limit=100&offset=200
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2021/qualifying.json?limit=100&offset=300
+  GET https://api.jolpi.ca/ergast/f1/2021/qualifying.json?limit=100&offset=400
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2021/sprint.json?limit=100&offset=0
+Round  1 Bahrain Grand Prix
+Round  2 Emilia Romagna Grand Prix
+Round  3 Portuguese Grand Prix
+Round  4 Spanish Grand Prix
+Round  5 Monaco Grand Prix
+Round  6 Azerbaijan Grand Prix
+Round  7 French Grand Prix
+Round  8 Styrian Grand Prix
+Round  9 Austrian Grand Prix
+Round 10 British Grand Prix
+Round 11 Hungarian Grand Prix
+Round 12 Belgian Grand Prix
+Round 13 Dutch Grand Prix
+Round 14 Italian Grand Prix
+Round 15 Russian Grand Prix
+Round 16 Turkish Grand Prix
+Round 17 United States Grand Prix
+Round 18 Mexico City Grand Prix
+Round 19 São Paulo Grand Prix
+Round 20 Qatar Grand Prix
+Round 21 Saudi Arabian Grand Prix
+Round 22 Abu Dhabi Grand Prix
+
+=== Season 2022 (details from dump) ===
+  GET https://api.jolpi.ca/ergast/f1/2022/races.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2022/drivers.json?limit=100&offset=0
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2022/constructors.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2022/results.json?limit=100&offset=0
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2022/results.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2022/results.json?limit=100&offset=200
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2022/results.json?limit=100&offset=300
+  GET https://api.jolpi.ca/ergast/f1/2022/results.json?limit=100&offset=400
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2022/qualifying.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2022/qualifying.json?limit=100&offset=100
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2022/qualifying.json?limit=100&offset=200
+  GET https://api.jolpi.ca/ergast/f1/2022/qualifying.json?limit=100&offset=300
+  GET https://api.jolpi.ca/ergast/f1/2022/qualifying.json?limit=100&offset=400
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2022/sprint.json?limit=100&offset=0
+Round  1 Bahrain Grand Prix
+Round  2 Saudi Arabian Grand Prix
+Round  3 Australian Grand Prix
+Round  4 Emilia Romagna Grand Prix
+Round  5 Miami Grand Prix
+Round  6 Spanish Grand Prix
+Round  7 Monaco Grand Prix
+Round  8 Azerbaijan Grand Prix
+Round  9 Canadian Grand Prix
+Round 10 British Grand Prix
+Round 11 Austrian Grand Prix
+Round 12 French Grand Prix
+Round 13 Hungarian Grand Prix
+Round 14 Belgian Grand Prix
+Round 15 Dutch Grand Prix
+Round 16 Italian Grand Prix
+Round 17 Singapore Grand Prix
+Round 18 Japanese Grand Prix
+Round 19 United States Grand Prix
+Round 20 Mexico City Grand Prix
+Round 21 São Paulo Grand Prix
+Round 22 Abu Dhabi Grand Prix
+
+=== Season 2023 (details from dump) ===
+  GET https://api.jolpi.ca/ergast/f1/2023/races.json?limit=100&offset=0
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2023/drivers.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2023/constructors.json?limit=100&offset=0
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2023/results.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2023/results.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2023/results.json?limit=100&offset=200
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2023/results.json?limit=100&offset=300
+  GET https://api.jolpi.ca/ergast/f1/2023/results.json?limit=100&offset=400
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2023/qualifying.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2023/qualifying.json?limit=100&offset=100
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2023/qualifying.json?limit=100&offset=200
+  GET https://api.jolpi.ca/ergast/f1/2023/qualifying.json?limit=100&offset=300
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2023/qualifying.json?limit=100&offset=400
+  GET https://api.jolpi.ca/ergast/f1/2023/sprint.json?limit=100&offset=0
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2023/sprint.json?limit=100&offset=100
+Round  1 Bahrain Grand Prix
+Round  2 Saudi Arabian Grand Prix
+Round  3 Australian Grand Prix
+Round  4 Azerbaijan Grand Prix
+Round  5 Miami Grand Prix
+Round  6 Monaco Grand Prix
+Round  7 Spanish Grand Prix
+Round  8 Canadian Grand Prix
+Round  9 Austrian Grand Prix
+Round 10 British Grand Prix
+Round 11 Hungarian Grand Prix
+Round 12 Belgian Grand Prix
+Round 13 Dutch Grand Prix
+Round 14 Italian Grand Prix
+Round 15 Singapore Grand Prix
+Round 16 Japanese Grand Prix
+Round 17 Qatar Grand Prix
+Round 18 United States Grand Prix
+Round 19 Mexico City Grand Prix
+Round 20 São Paulo Grand Prix
+Round 21 Las Vegas Grand Prix
+Round 22 Abu Dhabi Grand Prix
+
+=== Season 2024 (details from dump) ===
+  GET https://api.jolpi.ca/ergast/f1/2024/races.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2024/drivers.json?limit=100&offset=0
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2024/constructors.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2024/results.json?limit=100&offset=0
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2024/results.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2024/results.json?limit=100&offset=200
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2024/results.json?limit=100&offset=300
+  GET https://api.jolpi.ca/ergast/f1/2024/results.json?limit=100&offset=400
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2024/qualifying.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2024/qualifying.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2024/qualifying.json?limit=100&offset=200
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2024/qualifying.json?limit=100&offset=300
+  GET https://api.jolpi.ca/ergast/f1/2024/qualifying.json?limit=100&offset=400
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2024/sprint.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2024/sprint.json?limit=100&offset=100
+Round  1 Bahrain Grand Prix
+Round  2 Saudi Arabian Grand Prix
+Round  3 Australian Grand Prix
+Round  4 Japanese Grand Prix
+Round  5 Chinese Grand Prix
+Round  6 Miami Grand Prix
+Round  7 Emilia Romagna Grand Prix
+Round  8 Monaco Grand Prix
+Round  9 Canadian Grand Prix
+Round 10 Spanish Grand Prix
+Round 11 Austrian Grand Prix
+Round 12 British Grand Prix
+Round 13 Hungarian Grand Prix
+Round 14 Belgian Grand Prix
+Round 15 Dutch Grand Prix
+Round 16 Italian Grand Prix
+Round 17 Azerbaijan Grand Prix
+Round 18 Singapore Grand Prix
+Round 19 United States Grand Prix
+Round 20 Mexico City Grand Prix
+Round 21 São Paulo Grand Prix
+Round 22 Las Vegas Grand Prix
+Round 23 Qatar Grand Prix
+Round 24 Abu Dhabi Grand Prix
+
+=== Season 2025 (details from dump) ===
+  GET https://api.jolpi.ca/ergast/f1/2025/races.json?limit=100&offset=0
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2025/drivers.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2025/constructors.json?limit=100&offset=0
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2025/results.json?limit=100&offset=0
+  GET https://api.jolpi.ca/ergast/f1/2025/results.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2025/results.json?limit=100&offset=200
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2025/results.json?limit=100&offset=300
+  GET https://api.jolpi.ca/ergast/f1/2025/results.json?limit=100&offset=400
+  GET https://api.jolpi.ca/ergast/f1/2025/qualifying.json?limit=100&offset=0
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2025/qualifying.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2025/qualifying.json?limit=100&offset=200
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2025/qualifying.json?limit=100&offset=300
+  GET https://api.jolpi.ca/ergast/f1/2025/qualifying.json?limit=100&offset=400
+  GET https://api.jolpi.ca/ergast/f1/2025/sprint.json?limit=100&offset=0
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2025/sprint.json?limit=100&offset=100
+Round  1 Australian Grand Prix
+Round  2 Chinese Grand Prix
+Round  3 Japanese Grand Prix
+Round  4 Bahrain Grand Prix
+Round  5 Saudi Arabian Grand Prix
+Round  6 Miami Grand Prix
+Round  7 Emilia Romagna Grand Prix
+Round  8 Monaco Grand Prix
+Round  9 Spanish Grand Prix
+Round 10 Canadian Grand Prix
+Round 11 Austrian Grand Prix
+Round 12 British Grand Prix
+Round 13 Belgian Grand Prix
+Round 14 Hungarian Grand Prix
+Round 15 Dutch Grand Prix
+Round 16 Italian Grand Prix
+Round 17 Azerbaijan Grand Prix
+Round 18 Singapore Grand Prix
+Round 19 United States Grand Prix
+Round 20 Mexico City Grand Prix
+Round 21 São Paulo Grand Prix
+Round 22 Las Vegas Grand Prix
+Round 23 Qatar Grand Prix
+Round 24 Abu Dhabi Grand Prix
+
+=== Season 2026 (details from api) ===
+  GET https://api.jolpi.ca/ergast/f1/2026/results.json?limit=100&offset=0
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2026/results.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2026/results.json?limit=100&offset=200
+  GET https://api.jolpi.ca/ergast/f1/2026/results.json?limit=100&offset=300
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2026/results.json?limit=100&offset=400
+  GET https://api.jolpi.ca/ergast/f1/2026/qualifying.json?limit=100&offset=0
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2026/qualifying.json?limit=100&offset=100
+  GET https://api.jolpi.ca/ergast/f1/2026/qualifying.json?limit=100&offset=200
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2026/qualifying.json?limit=100&offset=300
+  GET https://api.jolpi.ca/ergast/f1/2026/qualifying.json?limit=100&offset=400
+  GET https://api.jolpi.ca/ergast/f1/2026/sprint.json?limit=100&offset=0
+    HTTP 429, retrying in 5s
+  GET https://api.jolpi.ca/ergast/f1/2026/sprint.json?limit=100&offset=100
+Round  1 Australian Grand Prix
+Round  2 Chinese Grand Prix
+Round  3 Japanese Grand Prix
+Round  4 Miami Grand Prix
+Round  5 Canadian Grand Prix
+Round  6 Monaco Grand Prix
+Round  7 Barcelona Grand Prix
+Round  8 Austrian Grand Prix
+Round  9 British Grand Prix
+Round 10 Belgian Grand Prix
+Round 11 Hungarian Grand Prix
+Round 12 Dutch Grand Prix
+Round 13 Italian Grand Prix
+Round 14 Spanish Grand Prix
+Round 15 Azerbaijan Grand Prix
+Round 16 Bahrain Grand Prix in Malaysia
+Round 17 Singapore Grand Prix
+Round 18 United States Grand Prix
+Round 19 Mexico City Grand Prix
+Round 20 Brazilian Grand Prix
+Round 21 Las Vegas Grand Prix: no results yet (2026-11-22)
+Round 22 Qatar Grand Prix: no results yet (2026-11-29)
+Round 23 Abu Dhabi Grand Prix: no results yet (2026-12-06)
+
+Importing laps / pit stops / standings from dump for [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+  dump: 253786 laps, 8365 pit stops, 4941 driver + 2350 constructor standings rows
+
+Row counts:
+  circuits                 33
+  constructor_standings    2570
+  constructors             20
+  driver_standings         5393
+  drivers                  77
+  lap_times                277325
+  pit_stops                9202
+  qualifying_results       5119
+  race_results             5138
+  races                    256
+  scrape_log               2
+  seasons                  12
+  sprint_results           612

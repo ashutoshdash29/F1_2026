@@ -1,0 +1,1062 @@
+{
+  "_comment": "Scene photos from Wikimedia Commons (freely licensed). 'focus' is the CSS object-position used when the photo is cropped. Add/remove entries freely, then run `npm run media`.",
+  "scenes": [
+    {
+      "id": "hero",
+      "file": "File:Mercedes W17 - Kimi Antonelli approaches Spoon Curve at Suzuka during the 2026 Japanese GP (55194289192).jpg",
+      "caption": "Mercedes W17 · Spoon Curve",
+      "place": "Suzuka · 2026",
+      "focus": "40% 60%"
+    },
+    {
+      "id": "crowd",
+      "file": "File:F1-usgp-2012-crowds-austin-texas.jpg",
+      "caption": "The grandstands",
+      "place": "Circuit of the Americas",
+      "focus": "30% 50%"
+    },
+    {
+      "id": "russell",
+      "file": "File:Mercedes W17 - George Russell exits the final chicane at Suzuka during the 2026 Japanese GP (55195432314).jpg",
+      "caption": "Mercedes W17 · Final chicane",
+      "place": "Suzuka · 2026",
+      "focus": "50% 60%"
+    },
+    {
+      "id": "leclerc",
+      "file": "File:Ferrari SF-26 - Charles Leclerc approaches Spoon Curve at Suzuka during the 2026 Japanese GP (55194289242).jpg",
+      "caption": "Ferrari SF-26 · Spoon Curve",
+      "place": "Suzuka · 2026",
+      "focus": "50% 60%"
+    },
+    {
+      "id": "hamilton",
+      "file": "File:Ferrari SF-26 - Lewis Hamilton exits the final chicane at Suzuka during the 2026 Japanese GP (55195432409).jpg",
+      "caption": "Ferrari SF-26 · Final chicane",
+      "place": "Suzuka · 2026",
+      "focus": "60% 60%"
+    },
+    {
+      "id": "norris",
+      "file": "File:Mclaren MCL40 - Lando Norris approaches Spoon Curve at Suzuka during the 2026 Japanese GP (55195326398).jpg",
+      "caption": "McLaren MCL40 · Spoon Curve",
+      "place": "Suzuka · 2026",
+      "focus": "45% 60%"
+    },
+    {
+      "id": "piastri",
+      "file": "File:Mclaren MCL40 - Oscar Piastri enters the Nissin Brake Hairpin at Suzuka during the 2026 Japanese GP (55195174246).jpg",
+      "caption": "McLaren MCL40 · Hairpin",
+      "place": "Suzuka · 2026",
+      "focus": "50% 55%"
+    },
+    {
+      "id": "spa",
+      "file": "File:F1 2013 Belgian Grand Prix - Start.jpg",
+      "caption": "Into Eau Rouge",
+      "place": "Spa-Francorchamps",
+      "focus": "60% 50%"
+    },
+    {
+      "id": "singapore",
+      "file": "File:1 singapore f1 night race 2012 city skyline.jpg",
+      "caption": "Under the lights",
+      "place": "Marina Bay, Singapore",
+      "focus": "50% 50%"
+    },
+    {
+      "id": "verstappen",
+      "file": "File:Max Verstappen 2025 Italian Grand Prix FP3.jpg",
+      "caption": "Red Bull at the Temple of Speed",
+      "place": "Monza · 2025",
+      "focus": "50% 55%"
+    },
+    {
+      "id": "ferrari",
+      "file": "File:FIA F1 Austria 2025 Nr. 44 Hamilton.jpg",
+      "caption": "Scarlet up close",
+      "place": "Red Bull Ring · 2025",
+      "focus": "35% 55%"
+    },
+    {
+      "id": "safetycar",
+      "file": "File:F1セーフティカー 鈴鹿2026.jpg",
+      "caption": "Safety car deployed",
+      "place": "Suzuka · 2026",
+      "focus": "40% 60%"
+    },
+    {
+      "id": "hero-2015",
+      "file": "File:150704 F1 British Grand Prix Day Three-303 (18869766084).jpg",
+      "caption": "Mercedes F1 W06 Hybrid",
+      "place": "Silverstone · 2015",
+      "focus": "55% 50%"
+    },
+    {
+      "id": "hero-2016",
+      "file": "File:F1 - Mercedes AMG - Nico Rosberg (28549724736).jpg",
+      "caption": "Rosberg's title-winning W07",
+      "place": "2016",
+      "focus": "45% 60%"
+    },
+    {
+      "id": "hero-2017",
+      "file": "File:2017 British Grand Prix (35804496601).jpg",
+      "caption": "Mercedes F1 W08 EQ Power+",
+      "place": "Silverstone · 2017",
+      "focus": "60% 65%"
+    },
+    {
+      "id": "hero-2018",
+      "file": "File:FIA F1 Austria 2018 Nr. 44 Hamilton.jpg",
+      "caption": "Mercedes F1 W09",
+      "place": "Red Bull Ring · 2018",
+      "focus": "50% 60%"
+    },
+    {
+      "id": "hero-2019",
+      "file": "File:FIA F1 Austria 2019 Nr. 44 Hamilton 2.jpg",
+      "caption": "Mercedes F1 W10",
+      "place": "Red Bull Ring · 2019",
+      "focus": "50% 65%"
+    },
+    {
+      "id": "hero-2020",
+      "file": "File:Lewis Hamilton-Mercedes W11 (1).jpg",
+      "caption": "Mercedes F1 W11",
+      "place": "2020",
+      "focus": "50% 60%"
+    },
+    {
+      "id": "hero-2021",
+      "file": "File:2021 United States Grand Prix 17.jpg",
+      "caption": "Red Bull RB16B",
+      "place": "Circuit of the Americas · 2021",
+      "focus": "50% 60%"
+    },
+    {
+      "id": "hero-2022",
+      "file": "File:2022 British Grand Prix (52382581623).jpg",
+      "caption": "Red Bull RB18",
+      "place": "Silverstone · 2022",
+      "focus": "65% 65%"
+    },
+    {
+      "id": "hero-2023",
+      "file": "File:FIA F1 Austria 2023 Nr. 1 (1).jpg",
+      "caption": "Red Bull RB19",
+      "place": "Red Bull Ring · 2023",
+      "focus": "50% 60%"
+    },
+    {
+      "id": "hero-2024",
+      "file": "File:2024 British Grand Prix, Verstappen (3).jpg",
+      "caption": "Red Bull RB20",
+      "place": "Silverstone · 2024",
+      "focus": "50% 60%"
+    },
+    {
+      "id": "hero-2025",
+      "file": "File:2025 Japan GP - McLaren - Lando Norris - FP1.jpg",
+      "caption": "McLaren MCL39",
+      "place": "Suzuka · 2025",
+      "focus": "50% 60%"
+    }
+  ],
+  "_emblems": "Team emblems (no wordmark, transparent background). crop = [x, y, w, h] as fractions of the trimmed image; transparent = colour keyed out; fill = recolour the whole mark. Needs ImageMagick.",
+  "emblems": [
+    {
+      "id": "mercedes",
+      "file": "File:Mercedes-Benz Logo 2010.svg",
+      "crop": [
+        0,
+        0,
+        0.266,
+        1
+      ]
+    },
+    {
+      "id": "ferrari",
+      "file": "File:Scuderia Ferrari HP logo 24.svg",
+      "crop": [
+        0,
+        0,
+        0.3125,
+        1
+      ]
+    },
+    {
+      "id": "mclaren",
+      "file": "File:McLaren Speedmark.svg",
+      "fill": "#FF8000"
+    },
+    {
+      "id": "red_bull",
+      "file": "File:Red Bull Racing Logo 2026.svg",
+      "crop": [
+        0.578,
+        0.335,
+        0.422,
+        0.33
+      ],
+      "transparent": "#001E3C",
+      "fuzz": 22
+    },
+    {
+      "id": "rb",
+      "file": "File:VCARB F1 logo.svg",
+      "crop": [
+        0.305,
+        0,
+        0.37,
+        0.86
+      ]
+    },
+    {
+      "id": "alpine",
+      "file": "File:Alpine logo.png",
+      "crop": [
+        0.265,
+        0,
+        0.477,
+        0.69
+      ]
+    },
+    {
+      "id": "haas",
+      "file": "File:Logo Haas F1.png"
+    },
+    {
+      "id": "audi",
+      "file": "File:Audi logo detail.svg",
+      "crop": [
+        0,
+        0,
+        1,
+        0.675
+      ]
+    },
+    {
+      "id": "williams",
+      "file": "File:Logo Williams F1.png"
+    },
+    {
+      "id": "aston_martin",
+      "file": "File:Aston Martin Lagonda brand logo.svg",
+      "fill": "#1FA37F"
+    },
+    {
+      "id": "cadillac",
+      "file": "File:Cadillac Logo 2021.svg",
+      "crop": [
+        0,
+        0,
+        1,
+        0.658
+      ]
+    },
+    {
+      "id": "force_india",
+      "file": "File:Mini Free Logo Force India.png",
+      "fill": "#F596C8"
+    },
+    {
+      "id": "lotus_f1",
+      "file": "File:Lotus F1 Team logo.png"
+    },
+    {
+      "id": "manor",
+      "file": "File:Manor F1 Team logo.png"
+    },
+    {
+      "id": "sauber",
+      "file": "File:Mini Free Logo Sauber.png"
+    },
+    {
+      "id": "toro_rosso",
+      "file": "File:Scuderia Toro Rosso logo.svg",
+      "crop": [
+        0.42,
+        0,
+        0.36,
+        0.5
+      ],
+      "fill": "#469BFF"
+    },
+    {
+      "id": "renault",
+      "file": "File:Renault 2009 logo.svg",
+      "crop": [
+        0,
+        0,
+        1,
+        0.8
+      ]
+    },
+    {
+      "id": "alfa",
+      "file": "File:Alfa Romeo logo.png",
+      "fill": "#E2313B"
+    },
+    {
+      "id": "racing_point",
+      "file": "File:BWT Racing Point Logo.svg",
+      "crop": [
+        0,
+        0,
+        0.2,
+        0.42
+      ]
+    },
+    {
+      "id": "alphatauri",
+      "file": "File:AlphaTauri.svg",
+      "crop": [
+        0,
+        0,
+        1,
+        0.72
+      ],
+      "fill": "#6F8FBF"
+    }
+  ],
+  "moments": [
+    {
+      "id": "m2015-01",
+      "season": 2015,
+      "round": 1,
+      "kind": "opener",
+      "file": "File:Lewis Hamilton on Mercedes F1 W06 Hybrid 2015 Australian Grand Prix - Qualifying (16265819744).jpg",
+      "caption": "Lewis Hamilton wins the season opener in Melbourne",
+      "place": "Round 1 · Australian GP",
+      "focus": "50% 55%",
+      "photo": "curated"
+    },
+    {
+      "id": "m2015-03",
+      "season": 2015,
+      "round": 3,
+      "kind": "win",
+      "file": "File:Hamilton China 2015.jpg",
+      "caption": "Lewis Hamilton wins the Chinese Grand Prix",
+      "place": "Round 3 · Chinese GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2015-04",
+      "season": 2015,
+      "round": 4,
+      "kind": "win",
+      "file": "File:Felipe Massa Bahrain 2015.jpg",
+      "caption": "Lewis Hamilton wins the Bahrain Grand Prix",
+      "place": "Round 4 · Bahrain GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2015-07",
+      "season": 2015,
+      "round": 7,
+      "kind": "win",
+      "file": "File:Hamilton Canada 2015.jpg",
+      "caption": "Lewis Hamilton wins the Canadian Grand Prix",
+      "place": "Round 7 · Canadian GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2015-09",
+      "season": 2015,
+      "round": 9,
+      "kind": "win",
+      "file": "File:Hamilton Britain 2015 victory.jpg",
+      "caption": "Lewis Hamilton wins the British Grand Prix",
+      "place": "Round 9 · British GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2015-16",
+      "season": 2015,
+      "round": 16,
+      "kind": "title",
+      "file": "File:Verstappen US GP 2015.jpg",
+      "caption": "Lewis Hamilton seals the 2015 title at the United States Grand Prix",
+      "place": "Round 16 · United States GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2016-01",
+      "season": 2016,
+      "round": 1,
+      "kind": "opener",
+      "file": "File:Rosberg Hamilton - 2016 Monaco GP 2.jpg",
+      "caption": "Nico Rosberg wins the season opener in Melbourne",
+      "place": "Round 1 · Australian GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2016-02",
+      "season": 2016,
+      "round": 2,
+      "kind": "win",
+      "file": "File:Rosberg Bahrain 2016 1.jpg",
+      "caption": "Nico Rosberg wins the Bahrain Grand Prix",
+      "place": "Round 2 · Bahrain GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2016-03",
+      "season": 2016,
+      "round": 3,
+      "kind": "win",
+      "file": "File:Max Verstappen (26754704080).jpg",
+      "caption": "Nico Rosberg wins the Chinese Grand Prix",
+      "place": "Round 3 · Chinese GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2016-04",
+      "season": 2016,
+      "round": 4,
+      "kind": "win",
+      "file": "File:Back on the Grid 2016 Russian GP.jpg",
+      "caption": "Nico Rosberg wins the Russian Grand Prix",
+      "place": "Round 4 · Russian GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2016-05",
+      "season": 2016,
+      "round": 5,
+      "kind": "headline",
+      "file": "File:Ricciardo Verstappen Vettel Spain 2016.jpg",
+      "caption": "Verstappen wins on his Red Bull debut, aged 18",
+      "place": "Round 5 · Spanish GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2016-21",
+      "season": 2016,
+      "round": 21,
+      "kind": "title",
+      "file": "File:Hamilton - 2016 Monaco GP 02.jpg",
+      "caption": "Title goes down to the wire: Nico Rosberg crowned at the Abu Dhabi Grand Prix",
+      "place": "Round 21 · Abu Dhabi GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2017-01",
+      "season": 2017,
+      "round": 1,
+      "kind": "opener",
+      "file": "File:Sebastian Vettel (35434285224).jpg",
+      "caption": "Sebastian Vettel wins the season opener in Melbourne",
+      "place": "Round 1 · Australian GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2017-02",
+      "season": 2017,
+      "round": 2,
+      "kind": "win",
+      "file": "File:Lewis Hamilton (33261494083).jpg",
+      "caption": "Lewis Hamilton wins the Chinese Grand Prix",
+      "place": "Round 2 · Chinese GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2017-05",
+      "season": 2017,
+      "round": 5,
+      "kind": "win",
+      "file": "File:Lewis Hamilton celebration, Malaysia GP 2017.jpg",
+      "caption": "Lewis Hamilton wins the Spanish Grand Prix",
+      "place": "Round 5 · Spanish GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2017-07",
+      "season": 2017,
+      "round": 7,
+      "kind": "win",
+      "file": "File:Hamilton (38713243861).jpg",
+      "caption": "Lewis Hamilton wins the Canadian Grand Prix",
+      "place": "Round 7 · Canadian GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2017-10",
+      "season": 2017,
+      "round": 10,
+      "kind": "win",
+      "file": "File:2017 British GP - Vettel's Ferrari SF70H with 'Shield' system (1).jpg",
+      "caption": "Lewis Hamilton wins the British Grand Prix",
+      "place": "Round 10 · British GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2017-18",
+      "season": 2017,
+      "round": 18,
+      "kind": "title",
+      "file": "File:Magnussen Mexico F1 2017.jpg",
+      "caption": "Lewis Hamilton seals the 2017 title at the Mexican Grand Prix",
+      "place": "Round 18 · Mexican GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2018-01",
+      "season": 2018,
+      "round": 1,
+      "kind": "opener",
+      "file": "File:2018 Spanish Grand Prix Vettel (1).jpg",
+      "caption": "Sebastian Vettel wins the season opener in Melbourne",
+      "place": "Round 1 · Australian GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2018-04",
+      "season": 2018,
+      "round": 4,
+      "kind": "win",
+      "file": "File:Lewis Hamilton 2018 Azerbaijan GP.jpg",
+      "caption": "Lewis Hamilton wins the Azerbaijan Grand Prix",
+      "place": "Round 4 · Azerbaijan GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2018-05",
+      "season": 2018,
+      "round": 5,
+      "kind": "win",
+      "file": "File:2018 Spanish Grand Prix Hamilton (1).jpg",
+      "caption": "Lewis Hamilton wins the Spanish Grand Prix",
+      "place": "Round 5 · Spanish GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2018-08",
+      "season": 2018,
+      "round": 8,
+      "kind": "win",
+      "file": "File:2018 British Grand Prix Hamilton (43741669991).jpg",
+      "caption": "Lewis Hamilton wins the French Grand Prix",
+      "place": "Round 8 · French GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2018-11",
+      "season": 2018,
+      "round": 11,
+      "kind": "comeback",
+      "file": "File:Lewis Hamilton, Silverstone, British GP 2018 (43741672771).jpg",
+      "caption": "Lewis Hamilton wins the German Grand Prix from P14 on the grid",
+      "place": "Round 11 · German GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2018-19",
+      "season": 2018,
+      "round": 19,
+      "kind": "title",
+      "file": "File:2018 Spanish Grand Prix Verstappen (1).jpg",
+      "caption": "Lewis Hamilton seals the 2018 title at the Mexican Grand Prix",
+      "place": "Round 19 · Mexican GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2019-01",
+      "season": 2019,
+      "round": 1,
+      "kind": "opener",
+      "file": "File:2019 Canadian Grand Prix Bottas (48089394381).jpg",
+      "caption": "Valtteri Bottas wins the season opener in Melbourne",
+      "place": "Round 1 · Australian GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2019-03",
+      "season": 2019,
+      "round": 3,
+      "kind": "win",
+      "file": "File:2019 Chinese Grand Prix Hamilton (47611075911).jpg",
+      "caption": "Lewis Hamilton wins the Chinese Grand Prix",
+      "place": "Round 3 · Chinese GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2019-07",
+      "season": 2019,
+      "round": 7,
+      "kind": "win",
+      "file": "File:2019 Canadian Grand Prix Hamilton (48089447432).jpg",
+      "caption": "Lewis Hamilton wins the Canadian Grand Prix",
+      "place": "Round 7 · Canadian GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2019-12",
+      "season": 2019,
+      "round": 12,
+      "kind": "win",
+      "file": "File:Lewis Hamilton during Hungarian Formula 1 GP.jpg",
+      "caption": "Lewis Hamilton wins the Hungarian Grand Prix",
+      "place": "Round 12 · Hungarian GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2019-13",
+      "season": 2019,
+      "round": 13,
+      "kind": "maiden",
+      "file": "File:2019 Chinese Grand Prix Leclerc (47583134682).jpg",
+      "caption": "Charles Leclerc takes a first Grand Prix win in Spa",
+      "place": "Round 13 · Belgian GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2019-19",
+      "season": 2019,
+      "round": 19,
+      "kind": "title",
+      "file": "File:2019 Chinese Grand Prix Bottas (46683739015).jpg",
+      "caption": "Lewis Hamilton seals the 2019 title at the United States Grand Prix",
+      "place": "Round 19 · United States GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2020-01",
+      "season": 2020,
+      "round": 1,
+      "kind": "opener",
+      "file": "File:Valtteri Bottas 2020 Tuscan Grand Prix - race day.jpg",
+      "caption": "Valtteri Bottas wins the season opener in Spielberg",
+      "place": "Round 1 · Austrian GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2020-08",
+      "season": 2020,
+      "round": 8,
+      "kind": "maiden",
+      "file": "File:Honda RACING Gallery 2020 AlphaTauri AT01 Pierre Gasly.jpg",
+      "caption": "Pierre Gasly takes a first Grand Prix win in Monza",
+      "place": "Round 8 · Italian GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2020-09",
+      "season": 2020,
+      "round": 9,
+      "kind": "win",
+      "file": "File:Lewis Hamilton 2020 Tuscan Grand Prix - race day.jpg",
+      "caption": "Lewis Hamilton wins the Tuscan Grand Prix",
+      "place": "Round 9 · Tuscan GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2020-16",
+      "season": 2020,
+      "round": 16,
+      "kind": "headline",
+      "file": "File:2020 Formula One tests Barcelona, Racing Point RP20, Pérez.jpg",
+      "caption": "Pérez fights back from last place on lap one to take his first win",
+      "place": "Round 16 · Sakhir GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2021-02",
+      "season": 2021,
+      "round": 2,
+      "kind": "win",
+      "file": "File:FIA F1 Austria 2021 Nr. 33 Verstappen.jpg",
+      "caption": "Max Verstappen wins the Emilia Romagna Grand Prix",
+      "place": "Round 2 · Emilia Romagna GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2021-05",
+      "season": 2021,
+      "round": 5,
+      "kind": "win",
+      "file": "File:FIA F1 Austria 2021 Nr. 33 Verstappen (side).jpg",
+      "caption": "Max Verstappen wins the Monaco Grand Prix",
+      "place": "Round 5 · Monaco GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2021-07",
+      "season": 2021,
+      "round": 7,
+      "kind": "win",
+      "file": "File:FIA F1 Austria 2021 Nr. 33 Verstappen (corner).jpg",
+      "caption": "Max Verstappen wins the French Grand Prix",
+      "place": "Round 7 · French GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2021-11",
+      "season": 2021,
+      "round": 11,
+      "kind": "maiden",
+      "file": "File:FIA F1 Austria 2021 Nr. 31 Ocon (side).jpg",
+      "caption": "Esteban Ocon takes a first Grand Prix win in Budapest",
+      "place": "Round 11 · Hungarian GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2021-19",
+      "season": 2021,
+      "round": 19,
+      "kind": "comeback",
+      "file": "File:FIA F1 Austria 2021 Nr. 44 Hamilton (side).jpg",
+      "caption": "Lewis Hamilton wins the São Paulo Grand Prix from P10 on the grid",
+      "place": "Round 19 · São Paulo GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2021-22",
+      "season": 2021,
+      "round": 22,
+      "kind": "headline",
+      "file": "File:Red Bull's 2021 RB16 Formula 1 Car Driven by Max Verstappen and Sergio Perez (52338795261).jpg",
+      "caption": "Last-lap showdown: Verstappen passes Hamilton to win his first title",
+      "place": "Round 22 · Abu Dhabi GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2022-01",
+      "season": 2022,
+      "round": 1,
+      "kind": "opener",
+      "file": "File:FIA F1 Austria 2022 Podium Race Winner Leclerc.jpg",
+      "caption": "Charles Leclerc wins the season opener in Sakhir",
+      "place": "Round 1 · Bahrain GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2022-02",
+      "season": 2022,
+      "round": 2,
+      "kind": "win",
+      "file": "File:FIA F1 Austria 2022 Nr. 1 Verstappen.jpg",
+      "caption": "Max Verstappen wins the Saudi Arabian Grand Prix",
+      "place": "Round 2 · Saudi Arabian GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2022-13",
+      "season": 2022,
+      "round": 13,
+      "kind": "comeback",
+      "file": "File:FIA F1 Austria 2022 Nr. 1 Verstappen (side).jpg",
+      "caption": "Max Verstappen wins the Hungarian Grand Prix from P10 on the grid",
+      "place": "Round 13 · Hungarian GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2022-14",
+      "season": 2022,
+      "round": 14,
+      "kind": "comeback",
+      "file": "File:FIA F1 Austria 2022 Nr. 1 Verstappen (side 2).jpg",
+      "caption": "Max Verstappen wins the Belgian Grand Prix from P14 on the grid",
+      "place": "Round 14 · Belgian GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2022-18",
+      "season": 2022,
+      "round": 18,
+      "kind": "title",
+      "file": "File:Mick Schumacher of Haas battles for position with Red Bull's Max Verstappen en route to his first points finish in F1 at the 2022 British Grand Prix (52196622846).jpg",
+      "caption": "Max Verstappen seals the 2022 title at the Japanese Grand Prix",
+      "place": "Round 18 · Japanese GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2022-21",
+      "season": 2022,
+      "round": 21,
+      "kind": "maiden",
+      "file": "File:Charles Leclerc - Ferrari (52499502495).jpg",
+      "caption": "George Russell takes a first Grand Prix win in São Paulo",
+      "place": "Round 21 · São Paulo GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2023-05",
+      "season": 2023,
+      "round": 5,
+      "kind": "win",
+      "file": "File:Miami Grand Prix startfinish.jpg",
+      "caption": "Max Verstappen wins the Miami Grand Prix",
+      "place": "Round 5 · Miami GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2023-09",
+      "season": 2023,
+      "round": 9,
+      "kind": "win",
+      "file": "File:FIA F1 Austria 2023 Nr. 1 (1).jpg",
+      "caption": "Max Verstappen wins the Austrian Grand Prix",
+      "place": "Round 9 · Austrian GP",
+      "focus": "50% 55%",
+      "photo": "curated"
+    },
+    {
+      "id": "m2023-14",
+      "season": 2023,
+      "round": 14,
+      "kind": "win",
+      "file": "File:Alexander Albon - 2023 Italian Grand Prix.jpg",
+      "caption": "Max Verstappen wins the Italian Grand Prix",
+      "place": "Round 14 · Italian GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2023-17",
+      "season": 2023,
+      "round": 17,
+      "kind": "title",
+      "file": "File:FIA F1 Austria 2023 Max Verstappen.jpg",
+      "caption": "Max Verstappen seals the 2023 title at the Qatar Grand Prix",
+      "place": "Round 17 · Qatar GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2024-01",
+      "season": 2024,
+      "round": 1,
+      "kind": "opener",
+      "file": "File:2024 British Grand Prix, Verstappen (2).jpg",
+      "caption": "Max Verstappen wins the season opener in Sakhir",
+      "place": "Round 1 · Bahrain GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2024-02",
+      "season": 2024,
+      "round": 2,
+      "kind": "win",
+      "file": "File:2024 British Grand Prix, Verstappen (1).jpg",
+      "caption": "Max Verstappen wins the Saudi Arabian Grand Prix",
+      "place": "Round 2 · Saudi Arabian GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2024-06",
+      "season": 2024,
+      "round": 6,
+      "kind": "maiden",
+      "file": "File:Start-Finish Straight at the 2024 Miami Grand Prix.jpg",
+      "caption": "Lando Norris takes a first Grand Prix win in Miami",
+      "place": "Round 6 · Miami GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2024-13",
+      "season": 2024,
+      "round": 13,
+      "kind": "maiden",
+      "file": "File:Norris & Piastri on the grid - Chinese GP 2024.jpg",
+      "caption": "Oscar Piastri takes a first Grand Prix win in Budapest",
+      "place": "Round 13 · Hungarian GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2024-21",
+      "season": 2024,
+      "round": 21,
+      "kind": "comeback",
+      "file": "File:2024 British Grand Prix, Verstappen (3).jpg",
+      "caption": "Max Verstappen wins the São Paulo Grand Prix from P17 on the grid",
+      "place": "Round 21 · São Paulo GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2024-22",
+      "season": 2024,
+      "round": 22,
+      "kind": "title",
+      "file": "File:2024 British Grand Prix, Russell (7).jpg",
+      "caption": "Max Verstappen seals the 2024 title at the Las Vegas Grand Prix",
+      "place": "Round 22 · Las Vegas GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2025-01",
+      "season": 2025,
+      "round": 1,
+      "kind": "opener",
+      "file": "File:FIA F1 Imola 2025 No. 4 Norris.jpg",
+      "caption": "Lando Norris wins the season opener in Melbourne",
+      "place": "Round 1 · Australian GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2025-08",
+      "season": 2025,
+      "round": 8,
+      "kind": "win",
+      "file": "File:FIA F1 Austria 2025 Nr. 4 Norris.jpg",
+      "caption": "Lando Norris wins the Monaco Grand Prix",
+      "place": "Round 8 · Monaco GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2025-11",
+      "season": 2025,
+      "round": 11,
+      "kind": "win",
+      "file": "File:FIA F1 Austria 2025 Nr. 5 Bortoleto.jpg",
+      "caption": "Lando Norris wins the Austrian Grand Prix",
+      "place": "Round 11 · Austrian GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2025-12",
+      "season": 2025,
+      "round": 12,
+      "kind": "win",
+      "file": "File:FIA F1 Imola 2025 No. 4 Norris (2).jpg",
+      "caption": "Lando Norris wins the British Grand Prix",
+      "place": "Round 12 · British GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2025-24",
+      "season": 2025,
+      "round": 24,
+      "kind": "title",
+      "file": "File:FIA F1 Imola 2025 No. 1 Verstappen.jpg",
+      "caption": "Title goes down to the wire: Lando Norris crowned at the Abu Dhabi Grand Prix",
+      "place": "Round 24 · Abu Dhabi GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2026-01",
+      "season": 2026,
+      "round": 1,
+      "kind": "opener",
+      "file": "File:Mercedes-AMG F1 W17 E Performance of George Russell (028A8068).jpg",
+      "caption": "George Russell wins the season opener in Melbourne",
+      "place": "Round 1 · Australian GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2026-02",
+      "season": 2026,
+      "round": 2,
+      "kind": "maiden",
+      "file": "File:2026 Chinese GP - Mercedes - Kimi Antonelli - Post Race Celebration.jpg",
+      "caption": "Andrea Kimi Antonelli takes a first Grand Prix win in Shanghai",
+      "place": "Round 2 · Chinese GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2026-03",
+      "season": 2026,
+      "round": 3,
+      "kind": "win",
+      "file": "File:Mercedes W17 - Kimi Antonelli approaches Spoon Curve at Suzuka during the 2026 Japanese GP (55194289192).jpg",
+      "caption": "Andrea Kimi Antonelli wins the Japanese Grand Prix",
+      "place": "Round 3 · Japanese GP",
+      "focus": "50% 55%",
+      "photo": "race"
+    },
+    {
+      "id": "m2026-04",
+      "season": 2026,
+      "round": 4,
+      "kind": "win",
+      "file": "File:FIA F1 Austria 2026 Nr. 12 Antonelli (4).jpg",
+      "caption": "Andrea Kimi Antonelli wins the Miami Grand Prix",
+      "place": "Round 4 · Miami GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2026-05",
+      "season": 2026,
+      "round": 5,
+      "kind": "win",
+      "file": "File:Kimi Antonelli at the Melbourne Walk during the 2026 Australian Grand Prix (028A7922).jpg",
+      "caption": "Andrea Kimi Antonelli wins the Canadian Grand Prix",
+      "place": "Round 5 · Canadian GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    },
+    {
+      "id": "m2026-13",
+      "season": 2026,
+      "round": 13,
+      "kind": "comeback",
+      "file": "File:FIA F1 Austria 2026 Nr. 12 Antonelli (3).jpg",
+      "caption": "Andrea Kimi Antonelli wins the Italian Grand Prix from P19 on the grid",
+      "place": "Round 13 · Italian GP",
+      "focus": "50% 55%",
+      "photo": "season"
+    }
+  ]
+}

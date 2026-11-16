@@ -1,0 +1,2378 @@
+{
+ "drivers": {
+  "bottas": {
+   "src": "media/overrides/drivers/bottas.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/bottas.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/bottas.webp",
+    "2016": "media/overrides/drivers_season/2016/bottas.webp",
+    "2017": "media/overrides/drivers_season/2017/bottas.webp",
+    "2018": "media/overrides/drivers_season/2018/bottas.webp",
+    "2019": "media/overrides/drivers_season/2019/bottas.webp",
+    "2020": "media/overrides/drivers_season/2020/bottas.webp",
+    "2021": "media/overrides/drivers_season/2021/bottas.webp",
+    "2022": "media/overrides/drivers_season/2022/bottas.webp",
+    "2023": "media/overrides/drivers_season/2023/bottas.webp",
+    "2024": "media/overrides/drivers_season/2024/bottas.webp"
+   }
+  },
+  "button": {
+   "src": "media/overrides/drivers/button.webp",
+   "credit": {
+    "title": "Token2049 JensonButton 08102026.jpg (background removed)",
+    "author": "Asalover2004",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Token2049_JensonButton_08102026.jpg"
+   },
+   "half": "media/overrides/drivers_half/button.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/button.webp",
+    "2016": "media/overrides/drivers_season/2016/button.webp",
+    "2017": "media/overrides/drivers_season/2017/button.webp"
+   }
+  },
+  "ericsson": {
+   "src": "media/overrides/drivers/ericsson.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/ericsson.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/ericsson.webp",
+    "2016": "media/overrides/drivers_season/2016/ericsson.webp",
+    "2017": "media/overrides/drivers_season/2017/ericsson.webp",
+    "2018": "media/overrides/drivers_season/2018/ericsson.webp"
+   }
+  },
+  "grosjean": {
+   "src": "media/overrides/drivers/grosjean.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/grosjean.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/grosjean.webp",
+    "2016": "media/overrides/drivers_season/2016/grosjean.webp",
+    "2017": "media/overrides/drivers_season/2017/grosjean.webp",
+    "2018": "media/overrides/drivers_season/2018/grosjean.webp",
+    "2019": "media/overrides/drivers_season/2019/grosjean.webp",
+    "2020": "media/overrides/drivers_season/2020/grosjean.webp"
+   }
+  },
+  "hamilton": {
+   "src": "media/overrides/drivers/hamilton.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/hamilton.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/hamilton.webp",
+    "2016": "media/overrides/drivers_season/2016/hamilton.webp",
+    "2017": "media/overrides/drivers_season/2017/hamilton.webp",
+    "2018": "media/overrides/drivers_season/2018/hamilton.webp",
+    "2019": "media/overrides/drivers_season/2019/hamilton.webp",
+    "2020": "media/overrides/drivers_season/2020/hamilton.webp",
+    "2021": "media/overrides/drivers_season/2021/hamilton.webp",
+    "2022": "media/overrides/drivers_season/2022/hamilton.webp",
+    "2023": "media/overrides/drivers_season/2023/hamilton.webp",
+    "2024": "media/overrides/drivers_season/2024/hamilton.webp",
+    "2025": "media/overrides/drivers_season/2025/hamilton.webp"
+   }
+  },
+  "hulkenberg": {
+   "src": "media/overrides/drivers/hulkenberg.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/hulkenberg.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/hulkenberg.webp",
+    "2016": "media/overrides/drivers_season/2016/hulkenberg.webp",
+    "2017": "media/overrides/drivers_season/2017/hulkenberg.webp",
+    "2018": "media/overrides/drivers_season/2018/hulkenberg.webp",
+    "2019": "media/overrides/drivers_season/2019/hulkenberg.webp",
+    "2020": "media/overrides/drivers_season/2020/hulkenberg.webp",
+    "2023": "media/overrides/drivers_season/2023/hulkenberg.webp",
+    "2024": "media/overrides/drivers_season/2024/hulkenberg.webp",
+    "2025": "media/overrides/drivers_season/2025/hulkenberg.webp"
+   }
+  },
+  "kevin_magnussen": {
+   "src": "media/overrides/drivers/kevin_magnussen.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/kevin_magnussen.webp",
+   "bySeason": {
+    "2016": "media/overrides/drivers_season/2016/kevin_magnussen.webp",
+    "2017": "media/overrides/drivers_season/2017/kevin_magnussen.webp",
+    "2018": "media/overrides/drivers_season/2018/kevin_magnussen.webp",
+    "2019": "media/overrides/drivers_season/2019/kevin_magnussen.webp",
+    "2020": "media/overrides/drivers_season/2020/kevin_magnussen.webp",
+    "2022": "media/overrides/drivers_season/2022/kevin_magnussen.webp",
+    "2023": "media/overrides/drivers_season/2023/kevin_magnussen.webp",
+    "2024": "media/overrides/drivers_season/2024/kevin_magnussen.webp"
+   }
+  },
+  "kvyat": {
+   "src": "media/overrides/drivers/kvyat.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/kvyat.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/kvyat.webp",
+    "2016": "media/overrides/drivers_season/2016/kvyat.webp",
+    "2017": "media/overrides/drivers_season/2017/kvyat.webp",
+    "2019": "media/overrides/drivers_season/2019/kvyat.webp",
+    "2020": "media/overrides/drivers_season/2020/kvyat.webp"
+   }
+  },
+  "maldonado": {
+   "src": "media/overrides/drivers/maldonado.webp",
+   "credit": {
+    "title": "Pastor Maldonado 2015 Malaysia.jpg (background removed)",
+    "author": "Morio",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Pastor_Maldonado_2015_Malaysia.jpg"
+   },
+   "half": "media/overrides/drivers_half/maldonado.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/maldonado.webp"
+   }
+  },
+  "massa": {
+   "src": "media/overrides/drivers/massa.webp",
+   "credit": {
+    "title": "Felipe Massa.jpg (background removed)",
+    "author": "TV Brasil Central AO VIVO",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Felipe_Massa.jpg"
+   },
+   "half": "media/overrides/drivers_half/massa.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/massa.webp",
+    "2016": "media/overrides/drivers_season/2016/massa.webp",
+    "2017": "media/overrides/drivers_season/2017/massa.webp"
+   }
+  },
+  "max_verstappen": {
+   "src": "media/overrides/drivers/max_verstappen.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/max_verstappen.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/max_verstappen.webp",
+    "2016": "media/overrides/drivers_season/2016/max_verstappen.webp",
+    "2017": "media/overrides/drivers_season/2017/max_verstappen.webp",
+    "2018": "media/overrides/drivers_season/2018/max_verstappen.webp",
+    "2019": "media/overrides/drivers_season/2019/max_verstappen.webp",
+    "2020": "media/overrides/drivers_season/2020/max_verstappen.webp",
+    "2021": "media/overrides/drivers_season/2021/max_verstappen.webp",
+    "2022": "media/overrides/drivers_season/2022/max_verstappen.webp",
+    "2023": "media/overrides/drivers_season/2023/max_verstappen.webp",
+    "2024": "media/overrides/drivers_season/2024/max_verstappen.webp",
+    "2025": "media/overrides/drivers_season/2025/max_verstappen.webp"
+   }
+  },
+  "nasr": {
+   "src": "media/overrides/drivers/nasr.webp",
+   "credit": {
+    "title": "Piloto Felipe Nasr fala à imprensa após encontro com Temer (28412246304) (cropped).jpg (background removed)",
+    "author": "Agência Brasil Fotografias",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Piloto_Felipe_Nasr_fala_%C3%A0_imprensa_ap%C3%B3s_encontro_com_Temer_(28412246304)_(cropped).jpg"
+   },
+   "half": "media/overrides/drivers_half/nasr.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/nasr.webp",
+    "2016": "media/overrides/drivers_season/2016/nasr.webp"
+   }
+  },
+  "perez": {
+   "src": "media/overrides/drivers/perez.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/perez.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/perez.webp",
+    "2016": "media/overrides/drivers_season/2016/perez.webp",
+    "2017": "media/overrides/drivers_season/2017/perez.webp",
+    "2018": "media/overrides/drivers_season/2018/perez.webp",
+    "2019": "media/overrides/drivers_season/2019/perez.webp",
+    "2020": "media/overrides/drivers_season/2020/perez.webp",
+    "2021": "media/overrides/drivers_season/2021/perez.webp",
+    "2022": "media/overrides/drivers_season/2022/perez.webp",
+    "2023": "media/overrides/drivers_season/2023/perez.webp",
+    "2024": "media/overrides/drivers_season/2024/perez.webp"
+   }
+  },
+  "raikkonen": {
+   "src": "media/overrides/drivers/raikkonen.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/raikkonen.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/raikkonen.webp",
+    "2016": "media/overrides/drivers_season/2016/raikkonen.webp",
+    "2017": "media/overrides/drivers_season/2017/raikkonen.webp",
+    "2018": "media/overrides/drivers_season/2018/raikkonen.webp",
+    "2019": "media/overrides/drivers_season/2019/raikkonen.webp",
+    "2020": "media/overrides/drivers_season/2020/raikkonen.webp",
+    "2021": "media/overrides/drivers_season/2021/raikkonen.webp"
+   }
+  },
+  "ricciardo": {
+   "src": "media/overrides/drivers/ricciardo.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/ricciardo.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/ricciardo.webp",
+    "2016": "media/overrides/drivers_season/2016/ricciardo.webp",
+    "2017": "media/overrides/drivers_season/2017/ricciardo.webp",
+    "2018": "media/overrides/drivers_season/2018/ricciardo.webp",
+    "2019": "media/overrides/drivers_season/2019/ricciardo.webp",
+    "2020": "media/overrides/drivers_season/2020/ricciardo.webp",
+    "2021": "media/overrides/drivers_season/2021/ricciardo.webp",
+    "2022": "media/overrides/drivers_season/2022/ricciardo.webp",
+    "2023": "media/overrides/drivers_season/2023/ricciardo.webp",
+    "2024": "media/overrides/drivers_season/2024/ricciardo.webp"
+   }
+  },
+  "rosberg": {
+   "src": "media/overrides/drivers/rosberg.webp",
+   "credit": {
+    "title": "Nico Rosberg 2016 Malaysia 1.jpg (background removed)",
+    "author": "Morio",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Nico_Rosberg_2016_Malaysia_1.jpg"
+   },
+   "half": "media/overrides/drivers_half/rosberg.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/rosberg.webp",
+    "2016": "media/overrides/drivers_season/2016/rosberg.webp"
+   }
+  },
+  "sainz": {
+   "src": "media/overrides/drivers/sainz.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/sainz.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/sainz.webp",
+    "2016": "media/overrides/drivers_season/2016/sainz.webp",
+    "2019": "media/overrides/drivers_season/2019/sainz.webp",
+    "2020": "media/overrides/drivers_season/2020/sainz.webp",
+    "2021": "media/overrides/drivers_season/2021/sainz.webp",
+    "2022": "media/overrides/drivers_season/2022/sainz.webp",
+    "2023": "media/overrides/drivers_season/2023/sainz.webp",
+    "2024": "media/overrides/drivers_season/2024/sainz.webp",
+    "2025": "media/overrides/drivers_season/2025/sainz.webp"
+   }
+  },
+  "vettel": {
+   "src": "media/overrides/drivers/vettel.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/vettel.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/vettel.webp",
+    "2016": "media/overrides/drivers_season/2016/vettel.webp",
+    "2017": "media/overrides/drivers_season/2017/vettel.webp",
+    "2018": "media/overrides/drivers_season/2018/vettel.webp",
+    "2019": "media/overrides/drivers_season/2019/vettel.webp",
+    "2020": "media/overrides/drivers_season/2020/vettel.webp",
+    "2021": "media/overrides/drivers_season/2021/vettel.webp",
+    "2022": "media/overrides/drivers_season/2022/vettel.webp"
+   }
+  },
+  "alonso": {
+   "src": "media/overrides/drivers/alonso.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/alonso.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/alonso.webp",
+    "2016": "media/overrides/drivers_season/2016/alonso.webp",
+    "2017": "media/overrides/drivers_season/2017/alonso.webp",
+    "2018": "media/overrides/drivers_season/2018/alonso.webp",
+    "2021": "media/overrides/drivers_season/2021/alonso.webp",
+    "2022": "media/overrides/drivers_season/2022/alonso.webp",
+    "2023": "media/overrides/drivers_season/2023/alonso.webp",
+    "2024": "media/overrides/drivers_season/2024/alonso.webp",
+    "2025": "media/overrides/drivers_season/2025/alonso.webp"
+   }
+  },
+  "merhi": {
+   "src": "media/overrides/drivers/merhi.webp",
+   "credit": {
+    "title": "Roberto Merhi 2015 Malaysia.jpg (background removed)",
+    "author": "Morio",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Roberto_Merhi_2015_Malaysia.jpg"
+   },
+   "half": "media/overrides/drivers_half/merhi.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/merhi.webp"
+   }
+  },
+  "stevens": {
+   "src": "media/overrides/drivers/stevens.webp",
+   "credit": {
+    "title": "Will Stevens 2017.jpg (background removed)",
+    "author": "ThumperGT",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Will_Stevens_2017.jpg"
+   },
+   "half": "media/overrides/drivers_half/stevens.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/stevens.webp"
+   }
+  },
+  "rossi": {
+   "src": "media/overrides/drivers/rossi.webp",
+   "credit": {
+    "title": "Alexander Rossi 2026 (cropped).jpg (background removed)",
+    "author": "NASA/Joel Kowsky",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Alexander_Rossi_2026_(cropped).jpg"
+   },
+   "half": "media/overrides/drivers_half/rossi.webp",
+   "bySeason": {
+    "2015": "media/overrides/drivers_season/2015/rossi.webp"
+   }
+  },
+  "gutierrez": {
+   "src": "media/overrides/drivers/gutierrez.webp",
+   "credit": {
+    "title": "Esteban Gutiérrez en el Gran Premio de Italia 2019 (cropped).jpg (background removed)",
+    "author": "Shmj582",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Esteban_Guti%C3%A9rrez_en_el_Gran_Premio_de_Italia_2019_(cropped).jpg"
+   },
+   "half": "media/overrides/drivers_half/gutierrez.webp"
+  },
+  "haryanto": {
+   "src": "media/overrides/drivers/haryanto.webp",
+   "credit": {
+    "title": "Rio Haryanto 2016 paddock.jpg (background removed)",
+    "author": "Edward Thomas",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Rio_Haryanto_2016_paddock.jpg"
+   },
+   "half": "media/overrides/drivers_half/haryanto.webp",
+   "bySeason": {
+    "2016": "media/overrides/drivers_season/2016/haryanto.webp"
+   }
+  },
+  "jolyon_palmer": {
+   "src": "media/overrides/drivers/jolyon_palmer.webp",
+   "credit": {
+    "title": "Jolyon Palmer 2016 Malaysia.jpg (background removed)",
+    "author": "Morio",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Jolyon_Palmer_2016_Malaysia.jpg"
+   },
+   "half": "media/overrides/drivers_half/jolyon_palmer.webp",
+   "bySeason": {
+    "2016": "media/overrides/drivers_season/2016/jolyon_palmer.webp",
+    "2017": "media/overrides/drivers_season/2017/jolyon_palmer.webp"
+   }
+  },
+  "wehrlein": {
+   "src": "media/overrides/drivers/wehrlein.webp",
+   "credit": {
+    "title": "2024-05-10 Motorsport, ABB FIA Formula E World Championship, Berlin E-Prix 2024 STP 2554 by Stepro.jpg (background removed)",
+    "author": "Steffen Prößdorf",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2024-05-10_Motorsport,_ABB_FIA_Formula_E_World_Championship,_Berlin_E-Prix_2024_STP_2554_by_Stepro.jpg"
+   },
+   "half": "media/overrides/drivers_half/wehrlein.webp"
+  },
+  "vandoorne": {
+   "src": "media/overrides/drivers/vandoorne.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/vandoorne.webp",
+   "bySeason": {
+    "2016": "media/overrides/drivers_season/2016/vandoorne.webp",
+    "2017": "media/overrides/drivers_season/2017/vandoorne.webp",
+    "2018": "media/overrides/drivers_season/2018/vandoorne.webp"
+   }
+  },
+  "ocon": {
+   "src": "media/overrides/drivers/ocon.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/ocon.webp",
+   "bySeason": {
+    "2016": "media/overrides/drivers_season/2016/ocon.webp",
+    "2017": "media/overrides/drivers_season/2017/ocon.webp",
+    "2018": "media/overrides/drivers_season/2018/ocon.webp",
+    "2020": "media/overrides/drivers_season/2020/ocon.webp",
+    "2021": "media/overrides/drivers_season/2021/ocon.webp",
+    "2022": "media/overrides/drivers_season/2022/ocon.webp",
+    "2023": "media/overrides/drivers_season/2023/ocon.webp",
+    "2024": "media/overrides/drivers_season/2024/ocon.webp",
+    "2025": "media/overrides/drivers_season/2025/ocon.webp"
+   }
+  },
+  "giovinazzi": {
+   "src": "media/overrides/drivers/giovinazzi.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/giovinazzi.webp",
+   "bySeason": {
+    "2019": "media/overrides/drivers_season/2019/giovinazzi.webp",
+    "2020": "media/overrides/drivers_season/2020/giovinazzi.webp",
+    "2021": "media/overrides/drivers_season/2021/giovinazzi.webp"
+   }
+  },
+  "stroll": {
+   "src": "media/overrides/drivers/stroll.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/stroll.webp",
+   "bySeason": {
+    "2017": "media/overrides/drivers_season/2017/stroll.webp",
+    "2018": "media/overrides/drivers_season/2018/stroll.webp",
+    "2019": "media/overrides/drivers_season/2019/stroll.webp",
+    "2020": "media/overrides/drivers_season/2020/stroll.webp",
+    "2021": "media/overrides/drivers_season/2021/stroll.webp",
+    "2022": "media/overrides/drivers_season/2022/stroll.webp",
+    "2023": "media/overrides/drivers_season/2023/stroll.webp",
+    "2024": "media/overrides/drivers_season/2024/stroll.webp",
+    "2025": "media/overrides/drivers_season/2025/stroll.webp"
+   }
+  },
+  "resta": {
+   "src": "media/overrides/drivers/resta.webp",
+   "credit": {
+    "title": "Paul di Resta 2022 (cropped).jpg (background removed)",
+    "author": "United Autosports",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Paul_di_Resta_2022_(cropped).jpg"
+   },
+   "half": "media/overrides/drivers_half/resta.webp"
+  },
+  "gasly": {
+   "src": "media/overrides/drivers/gasly.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/gasly.webp",
+   "bySeason": {
+    "2017": "media/overrides/drivers_season/2017/gasly.webp",
+    "2018": "media/overrides/drivers_season/2018/gasly.webp",
+    "2019": "media/overrides/drivers_season/2019/gasly.webp",
+    "2020": "media/overrides/drivers_season/2020/gasly.webp",
+    "2021": "media/overrides/drivers_season/2021/gasly.webp",
+    "2022": "media/overrides/drivers_season/2022/gasly.webp",
+    "2023": "media/overrides/drivers_season/2023/gasly.webp",
+    "2024": "media/overrides/drivers_season/2024/gasly.webp",
+    "2025": "media/overrides/drivers_season/2025/gasly.webp"
+   }
+  },
+  "brendon_hartley": {
+   "src": "media/overrides/drivers/brendon_hartley.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/brendon_hartley.webp"
+  },
+  "leclerc": {
+   "src": "media/overrides/drivers/leclerc.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/leclerc.webp",
+   "bySeason": {
+    "2018": "media/overrides/drivers_season/2018/leclerc.webp",
+    "2019": "media/overrides/drivers_season/2019/leclerc.webp",
+    "2020": "media/overrides/drivers_season/2020/leclerc.webp",
+    "2021": "media/overrides/drivers_season/2021/leclerc.webp",
+    "2022": "media/overrides/drivers_season/2022/leclerc.webp",
+    "2023": "media/overrides/drivers_season/2023/leclerc.webp",
+    "2024": "media/overrides/drivers_season/2024/leclerc.webp",
+    "2025": "media/overrides/drivers_season/2025/leclerc.webp"
+   }
+  },
+  "sirotkin": {
+   "src": "media/overrides/drivers/sirotkin.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/sirotkin.webp",
+   "bySeason": {
+    "2018": "media/overrides/drivers_season/2018/sirotkin.webp"
+   }
+  },
+  "albon": {
+   "src": "media/overrides/drivers/albon.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/albon.webp",
+   "bySeason": {
+    "2019": "media/overrides/drivers_season/2019/albon.webp",
+    "2020": "media/overrides/drivers_season/2020/albon.webp",
+    "2022": "media/overrides/drivers_season/2022/albon.webp",
+    "2023": "media/overrides/drivers_season/2023/albon.webp",
+    "2024": "media/overrides/drivers_season/2024/albon.webp",
+    "2025": "media/overrides/drivers_season/2025/albon.webp"
+   }
+  },
+  "kubica": {
+   "src": "media/overrides/drivers/kubica.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/kubica.webp",
+   "bySeason": {
+    "2019": "media/overrides/drivers_season/2019/kubica.webp"
+   }
+  },
+  "norris": {
+   "src": "media/overrides/drivers/norris.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/norris.webp",
+   "bySeason": {
+    "2019": "media/overrides/drivers_season/2019/norris.webp",
+    "2020": "media/overrides/drivers_season/2020/norris.webp",
+    "2021": "media/overrides/drivers_season/2021/norris.webp",
+    "2022": "media/overrides/drivers_season/2022/norris.webp",
+    "2023": "media/overrides/drivers_season/2023/norris.webp",
+    "2024": "media/overrides/drivers_season/2024/norris.webp",
+    "2025": "media/overrides/drivers_season/2025/norris.webp"
+   }
+  },
+  "russell": {
+   "src": "media/overrides/drivers/russell.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/russell.webp",
+   "bySeason": {
+    "2019": "media/overrides/drivers_season/2019/russell.webp",
+    "2020": "media/overrides/drivers_season/2020/russell.webp",
+    "2021": "media/overrides/drivers_season/2021/russell.webp",
+    "2022": "media/overrides/drivers_season/2022/russell.webp",
+    "2023": "media/overrides/drivers_season/2023/russell.webp",
+    "2024": "media/overrides/drivers_season/2024/russell.webp",
+    "2025": "media/overrides/drivers_season/2025/russell.webp"
+   }
+  },
+  "latifi": {
+   "src": "media/overrides/drivers/latifi.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/latifi.webp",
+   "bySeason": {
+    "2020": "media/overrides/drivers_season/2020/latifi.webp",
+    "2021": "media/overrides/drivers_season/2021/latifi.webp",
+    "2022": "media/overrides/drivers_season/2022/latifi.webp"
+   }
+  },
+  "aitken": {
+   "src": "media/overrides/drivers/aitken.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/aitken.webp",
+   "bySeason": {
+    "2020": "media/overrides/drivers_season/2020/aitken.webp"
+   }
+  },
+  "pietro_fittipaldi": {
+   "src": "media/overrides/drivers/pietro_fittipaldi.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/pietro_fittipaldi.webp",
+   "bySeason": {
+    "2020": "media/overrides/drivers_season/2020/pietro_fittipaldi.webp"
+   }
+  },
+  "mazepin": {
+   "src": "media/overrides/drivers/mazepin.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/mazepin.webp",
+   "bySeason": {
+    "2021": "media/overrides/drivers_season/2021/mazepin.webp"
+   }
+  },
+  "mick_schumacher": {
+   "src": "media/overrides/drivers/mick_schumacher.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/mick_schumacher.webp",
+   "bySeason": {
+    "2021": "media/overrides/drivers_season/2021/mick_schumacher.webp",
+    "2022": "media/overrides/drivers_season/2022/mick_schumacher.webp"
+   }
+  },
+  "tsunoda": {
+   "src": "media/overrides/drivers/tsunoda.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/tsunoda.webp",
+   "bySeason": {
+    "2021": "media/overrides/drivers_season/2021/tsunoda.webp",
+    "2022": "media/overrides/drivers_season/2022/tsunoda.webp",
+    "2023": "media/overrides/drivers_season/2023/tsunoda.webp",
+    "2024": "media/overrides/drivers_season/2024/tsunoda.webp",
+    "2025": "media/overrides/drivers_season/2025/tsunoda.webp"
+   }
+  },
+  "zhou": {
+   "src": "media/overrides/drivers/zhou.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/zhou.webp",
+   "bySeason": {
+    "2022": "media/overrides/drivers_season/2022/zhou.webp",
+    "2023": "media/overrides/drivers_season/2023/zhou.webp",
+    "2024": "media/overrides/drivers_season/2024/zhou.webp"
+   }
+  },
+  "de_vries": {
+   "src": "media/overrides/drivers/de_vries.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/de_vries.webp",
+   "bySeason": {
+    "2023": "media/overrides/drivers_season/2023/de_vries.webp"
+   }
+  },
+  "piastri": {
+   "src": "media/overrides/drivers/piastri.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/piastri.webp",
+   "bySeason": {
+    "2023": "media/overrides/drivers_season/2023/piastri.webp",
+    "2024": "media/overrides/drivers_season/2024/piastri.webp",
+    "2025": "media/overrides/drivers_season/2025/piastri.webp"
+   }
+  },
+  "sargeant": {
+   "src": "media/overrides/drivers/sargeant.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/sargeant.webp",
+   "bySeason": {
+    "2023": "media/overrides/drivers_season/2023/sargeant.webp",
+    "2024": "media/overrides/drivers_season/2024/sargeant.webp"
+   }
+  },
+  "lawson": {
+   "src": "media/overrides/drivers/lawson.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/lawson.webp",
+   "bySeason": {
+    "2024": "media/overrides/drivers_season/2024/lawson.webp",
+    "2025": "media/overrides/drivers_season/2025/lawson.webp"
+   }
+  },
+  "bearman": {
+   "src": "media/overrides/drivers/bearman.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/bearman.webp",
+   "bySeason": {
+    "2024": "media/overrides/drivers_season/2024/bearman.webp",
+    "2025": "media/overrides/drivers_season/2025/bearman.webp"
+   }
+  },
+  "colapinto": {
+   "src": "media/overrides/drivers/colapinto.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/colapinto.webp",
+   "bySeason": {
+    "2024": "media/overrides/drivers_season/2024/colapinto.webp",
+    "2025": "media/overrides/drivers_season/2025/colapinto.webp"
+   }
+  },
+  "doohan": {
+   "src": "media/overrides/drivers/doohan.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/doohan.webp",
+   "bySeason": {
+    "2024": "media/overrides/drivers_season/2024/doohan.webp",
+    "2025": "media/overrides/drivers_season/2025/doohan.webp"
+   }
+  },
+  "antonelli": {
+   "src": "media/overrides/drivers/antonelli.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/antonelli.webp",
+   "bySeason": {
+    "2025": "media/overrides/drivers_season/2025/antonelli.webp"
+   }
+  },
+  "bortoleto": {
+   "src": "media/overrides/drivers/bortoleto.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/bortoleto.webp",
+   "bySeason": {
+    "2025": "media/overrides/drivers_season/2025/bortoleto.webp"
+   }
+  },
+  "hadjar": {
+   "src": "media/overrides/drivers/hadjar.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/hadjar.webp",
+   "bySeason": {
+    "2025": "media/overrides/drivers_season/2025/hadjar.webp"
+   }
+  },
+  "arvid_lindblad": {
+   "src": "media/overrides/drivers/arvid_lindblad.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/arvid_lindblad.webp"
+  },
+  "ryo_hirakawa": {
+   "src": "media/overrides/drivers/ryo_hirakawa.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/ryo_hirakawa.webp"
+  },
+  "rafael_camara": {
+   "src": "media/overrides/drivers/rafael_camara.webp",
+   "credit": {
+    "title": "Official driver photo",
+    "author": "Formula 1",
+    "license": "© Formula One World Championship Ltd",
+    "url": "https://www.formula1.com/en/drivers"
+   },
+   "half": "media/overrides/drivers_half/rafael_camara.webp"
+  }
+ },
+ "teams": {
+  "ferrari": {
+   "src": "media/emblems/ferrari.png",
+   "credit": {
+    "title": "Scuderia Ferrari HP logo 24.svg",
+    "author": null,
+    "license": "Fair use",
+    "url": "https://en.wikipedia.org/wiki/File:Scuderia_Ferrari_HP_logo_24.svg"
+   }
+  },
+  "lotus_f1": {
+   "src": "media/emblems/lotus_f1.png",
+   "credit": {
+    "title": "Lotus F1 Team logo.png",
+    "author": null,
+    "license": "Fair use",
+    "url": "https://en.wikipedia.org/wiki/File:Lotus_F1_Team_logo.png"
+   }
+  },
+  "mclaren": {
+   "src": "media/emblems/mclaren.png",
+   "credit": {
+    "title": "McLaren Speedmark.svg",
+    "author": "Ved havet",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:McLaren_Speedmark.svg"
+   }
+  },
+  "mercedes": {
+   "src": "media/emblems/mercedes.png",
+   "credit": {
+    "title": "Mercedes-Benz Logo 2010.svg",
+    "author": "Mercedes-Benz",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Logo_2010.svg"
+   }
+  },
+  "red_bull": {
+   "src": "media/emblems/red_bull.png",
+   "credit": {
+    "title": "Red Bull Racing Logo 2026.svg",
+    "author": null,
+    "license": "Fair use",
+    "url": "https://en.wikipedia.org/wiki/File:Red_Bull_Racing_Logo_2026.svg"
+   }
+  },
+  "sauber": {
+   "src": "media/emblems/sauber.png",
+   "credit": {
+    "title": "Mini Free Logo Sauber.png",
+    "author": "MiniPictures",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mini_Free_Logo_Sauber.png"
+   }
+  },
+  "williams": {
+   "src": "media/emblems/williams.png",
+   "credit": {
+    "title": "Logo Williams F1.png",
+    "author": "Juanchocarbonero",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Logo_Williams_F1.png"
+   }
+  },
+  "manor": {
+   "src": "media/emblems/manor.png",
+   "credit": {
+    "title": "Manor F1 Team logo.png",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Manor_F1_Team_logo.png"
+   }
+  },
+  "haas": {
+   "src": "media/emblems/haas.png",
+   "credit": {
+    "title": "Logo Haas F1.png",
+    "author": "Juanchocarbonero",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Logo_Haas_F1.png"
+   }
+  },
+  "renault": {
+   "src": "media/emblems/renault.png",
+   "credit": {
+    "title": "Renault 2009 logo.svg",
+    "author": "Renault",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Renault_2009_logo.svg"
+   }
+  },
+  "racing_point": {
+   "src": "media/emblems/racing_point.png",
+   "credit": {
+    "title": "BWT Racing Point Logo.svg",
+    "author": "Racing Point UK Limited",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:BWT_Racing_Point_Logo.svg"
+   }
+  },
+  "alphatauri": {
+   "src": "media/emblems/alphatauri.png",
+   "credit": {
+    "title": "AlphaTauri.svg",
+    "author": null,
+    "license": "Fair use",
+    "url": "https://en.wikipedia.org/wiki/File:AlphaTauri.svg"
+   }
+  },
+  "alpine": {
+   "src": "media/emblems/alpine.png",
+   "credit": {
+    "title": "Alpine logo.png",
+    "author": "Alpine-Renault",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Alpine_logo.png"
+   }
+  },
+  "aston_martin": {
+   "src": "media/emblems/aston_martin.png",
+   "credit": {
+    "title": "Aston Martin Lagonda brand logo.svg",
+    "author": null,
+    "license": "Fair use",
+    "url": "https://en.wikipedia.org/wiki/File:Aston_Martin_Lagonda_brand_logo.svg"
+   }
+  },
+  "rb": {
+   "src": "media/emblems/rb.png",
+   "credit": {
+    "title": "VCARB F1 logo.svg",
+    "author": null,
+    "license": "Fair use",
+    "url": "https://en.wikipedia.org/wiki/File:VCARB_F1_logo.svg"
+   }
+  },
+  "audi": {
+   "src": "media/emblems/audi.png",
+   "credit": {
+    "title": "Audi logo detail.svg",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Audi_logo_detail.svg"
+   }
+  },
+  "cadillac": {
+   "src": "media/emblems/cadillac.png",
+   "credit": {
+    "title": "Cadillac Logo 2021.svg",
+    "author": "Cadillac",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Cadillac_Logo_2021.svg"
+   }
+  },
+  "force_india": {
+   "src": "media/emblems/force_india.png",
+   "credit": {
+    "title": "Mini Free Logo Force India.png",
+    "author": "MiniPictures",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mini_Free_Logo_Force_India.png"
+   }
+  },
+  "toro_rosso": {
+   "src": "media/emblems/toro_rosso.png",
+   "credit": {
+    "title": "Scuderia Toro Rosso logo.svg",
+    "author": null,
+    "license": "Fair use",
+    "url": "https://en.wikipedia.org/wiki/File:Scuderia_Toro_Rosso_logo.svg"
+   }
+  },
+  "alfa": {
+   "src": "media/emblems/alfa.png",
+   "credit": {
+    "title": "Alfa Romeo logo.png",
+    "author": null,
+    "license": "Fair use",
+    "url": "https://en.wikipedia.org/wiki/File:Alfa_Romeo_logo.png"
+   }
+  }
+ },
+ "scenes": {
+  "hero": {
+   "src": "media/scenes/hero.webp",
+   "caption": "Mercedes W17 · Spoon Curve",
+   "place": "Suzuka · 2026",
+   "focus": "40% 60%",
+   "credit": {
+    "title": "Mercedes W17 - Kimi Antonelli approaches Spoon Curve at Suzuka during the 2026 Japanese GP (55194289192).jpg",
+    "author": "Martin Lee from London, UK",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mercedes_W17_-_Kimi_Antonelli_approaches_Spoon_Curve_at_Suzuka_during_the_2026_Japanese_GP_(55194289192).jpg"
+   }
+  },
+  "crowd": {
+   "src": "media/scenes/crowd.webp",
+   "caption": "The grandstands",
+   "place": "Circuit of the Americas",
+   "focus": "30% 50%",
+   "credit": {
+    "title": "F1-usgp-2012-crowds-austin-texas.jpg",
+    "author": "Seefrank",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:F1-usgp-2012-crowds-austin-texas.jpg"
+   }
+  },
+  "russell": {
+   "src": "media/scenes/russell.webp",
+   "caption": "Mercedes W17 · Final chicane",
+   "place": "Suzuka · 2026",
+   "focus": "50% 60%",
+   "credit": {
+    "title": "Mercedes W17 - George Russell exits the final chicane at Suzuka during the 2026 Japanese GP (55195432314).jpg",
+    "author": "Martin Lee from London, UK",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mercedes_W17_-_George_Russell_exits_the_final_chicane_at_Suzuka_during_the_2026_Japanese_GP_(55195432314).jpg"
+   }
+  },
+  "leclerc": {
+   "src": "media/scenes/leclerc.webp",
+   "caption": "Ferrari SF-26 · Spoon Curve",
+   "place": "Suzuka · 2026",
+   "focus": "50% 60%",
+   "credit": {
+    "title": "Ferrari SF-26 - Charles Leclerc approaches Spoon Curve at Suzuka during the 2026 Japanese GP (55194289242).jpg",
+    "author": "Martin Lee from London, UK",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Ferrari_SF-26_-_Charles_Leclerc_approaches_Spoon_Curve_at_Suzuka_during_the_2026_Japanese_GP_(55194289242).jpg"
+   }
+  },
+  "hamilton": {
+   "src": "media/scenes/hamilton.webp",
+   "caption": "Ferrari SF-26 · Final chicane",
+   "place": "Suzuka · 2026",
+   "focus": "60% 60%",
+   "credit": {
+    "title": "Ferrari SF-26 - Lewis Hamilton exits the final chicane at Suzuka during the 2026 Japanese GP (55195432409).jpg",
+    "author": "Martin Lee from London, UK",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Ferrari_SF-26_-_Lewis_Hamilton_exits_the_final_chicane_at_Suzuka_during_the_2026_Japanese_GP_(55195432409).jpg"
+   }
+  },
+  "norris": {
+   "src": "media/scenes/norris.webp",
+   "caption": "McLaren MCL40 · Spoon Curve",
+   "place": "Suzuka · 2026",
+   "focus": "45% 60%",
+   "credit": {
+    "title": "Mclaren MCL40 - Lando Norris approaches Spoon Curve at Suzuka during the 2026 Japanese GP (55195326398).jpg",
+    "author": "Martin Lee from London, UK",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mclaren_MCL40_-_Lando_Norris_approaches_Spoon_Curve_at_Suzuka_during_the_2026_Japanese_GP_(55195326398).jpg"
+   }
+  },
+  "piastri": {
+   "src": "media/scenes/piastri.webp",
+   "caption": "McLaren MCL40 · Hairpin",
+   "place": "Suzuka · 2026",
+   "focus": "50% 55%",
+   "credit": {
+    "title": "Mclaren MCL40 - Oscar Piastri enters the Nissin Brake Hairpin at Suzuka during the 2026 Japanese GP (55195174246).jpg",
+    "author": "Martin Lee from London, UK",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mclaren_MCL40_-_Oscar_Piastri_enters_the_Nissin_Brake_Hairpin_at_Suzuka_during_the_2026_Japanese_GP_(55195174246).jpg"
+   }
+  },
+  "spa": {
+   "src": "media/scenes/spa.webp",
+   "caption": "Into Eau Rouge",
+   "place": "Spa-Francorchamps",
+   "focus": "60% 50%",
+   "credit": {
+    "title": "F1 2013 Belgian Grand Prix - Start.jpg",
+    "author": "Malte89N",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:F1_2013_Belgian_Grand_Prix_-_Start.jpg"
+   }
+  },
+  "singapore": {
+   "src": "media/scenes/singapore.webp",
+   "caption": "Under the lights",
+   "place": "Marina Bay, Singapore",
+   "focus": "50% 50%",
+   "credit": {
+    "title": "1 singapore f1 night race 2012 city skyline.jpg",
+    "author": "chensiyuan",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:1_singapore_f1_night_race_2012_city_skyline.jpg"
+   }
+  },
+  "verstappen": {
+   "src": "media/scenes/verstappen.webp",
+   "caption": "Red Bull at the Temple of Speed",
+   "place": "Monza · 2025",
+   "focus": "50% 55%",
+   "credit": {
+    "title": "Max Verstappen 2025 Italian Grand Prix FP3.jpg",
+    "author": "Eustace Bagge",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Max_Verstappen_2025_Italian_Grand_Prix_FP3.jpg"
+   }
+  },
+  "ferrari": {
+   "src": "media/scenes/ferrari.webp",
+   "caption": "Scarlet up close",
+   "place": "Red Bull Ring · 2025",
+   "focus": "35% 55%",
+   "credit": {
+    "title": "FIA F1 Austria 2025 Nr. 44 Hamilton.jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2025_Nr._44_Hamilton.jpg"
+   }
+  },
+  "safetycar": {
+   "src": "media/scenes/safetycar.webp",
+   "caption": "Safety car deployed",
+   "place": "Suzuka · 2026",
+   "focus": "40% 60%",
+   "credit": {
+    "title": "F1セーフティカー 鈴鹿2026.jpg",
+    "author": "Ysys3455",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:F1%E3%82%BB%E3%83%BC%E3%83%95%E3%83%86%E3%82%A3%E3%82%AB%E3%83%BC_%E9%88%B4%E9%B9%BF2026.jpg"
+   }
+  },
+  "hero-2015": {
+   "src": "media/scenes/hero-2015.webp",
+   "caption": "Mercedes F1 W06 Hybrid",
+   "place": "Silverstone · 2015",
+   "focus": "55% 50%",
+   "credit": {
+    "title": "150704 F1 British Grand Prix Day Three-303 (18869766084).jpg",
+    "author": "Franziska",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:150704_F1_British_Grand_Prix_Day_Three-303_(18869766084).jpg"
+   }
+  },
+  "hero-2016": {
+   "src": "media/scenes/hero-2016.webp",
+   "caption": "Rosberg's title-winning W07",
+   "place": "2016",
+   "focus": "45% 60%",
+   "credit": {
+    "title": "F1 - Mercedes AMG - Nico Rosberg (28549724736).jpg",
+    "author": "Jen_ross83",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:F1_-_Mercedes_AMG_-_Nico_Rosberg_(28549724736).jpg"
+   }
+  },
+  "hero-2017": {
+   "src": "media/scenes/hero-2017.webp",
+   "caption": "Mercedes F1 W08 EQ Power+",
+   "place": "Silverstone · 2017",
+   "focus": "60% 65%",
+   "credit": {
+    "title": "2017 British Grand Prix (35804496601).jpg",
+    "author": "Stephen Grimes",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2017_British_Grand_Prix_(35804496601).jpg"
+   }
+  },
+  "hero-2018": {
+   "src": "media/scenes/hero-2018.webp",
+   "caption": "Mercedes F1 W09",
+   "place": "Red Bull Ring · 2018",
+   "focus": "50% 60%",
+   "credit": {
+    "title": "FIA F1 Austria 2018 Nr. 44 Hamilton.jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2018_Nr._44_Hamilton.jpg"
+   }
+  },
+  "hero-2019": {
+   "src": "media/scenes/hero-2019.webp",
+   "caption": "Mercedes F1 W10",
+   "place": "Red Bull Ring · 2019",
+   "focus": "50% 65%",
+   "credit": {
+    "title": "FIA F1 Austria 2019 Nr. 44 Hamilton 2.jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2019_Nr._44_Hamilton_2.jpg"
+   }
+  },
+  "hero-2020": {
+   "src": "media/scenes/hero-2020.webp",
+   "caption": "Mercedes F1 W11",
+   "place": "2020",
+   "focus": "50% 60%",
+   "credit": {
+    "title": "Lewis Hamilton-Mercedes W11 (1).jpg",
+    "author": "Alberto-g-rovi",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Lewis_Hamilton-Mercedes_W11_(1).jpg"
+   }
+  },
+  "hero-2021": {
+   "src": "media/scenes/hero-2021.webp",
+   "caption": "Red Bull RB16B",
+   "place": "Circuit of the Americas · 2021",
+   "focus": "50% 60%",
+   "credit": {
+    "title": "2021 United States Grand Prix 17.jpg",
+    "author": "rsyphotography",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2021_United_States_Grand_Prix_17.jpg"
+   }
+  },
+  "hero-2022": {
+   "src": "media/scenes/hero-2022.webp",
+   "caption": "Red Bull RB18",
+   "place": "Silverstone · 2022",
+   "focus": "65% 65%",
+   "credit": {
+    "title": "2022 British Grand Prix (52382581623).jpg",
+    "author": "Jen Ross",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2022_British_Grand_Prix_(52382581623).jpg"
+   }
+  },
+  "hero-2023": {
+   "src": "media/scenes/hero-2023.webp",
+   "caption": "Red Bull RB19",
+   "place": "Red Bull Ring · 2023",
+   "focus": "50% 60%",
+   "credit": {
+    "title": "FIA F1 Austria 2023 Nr. 1 (1).jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2023_Nr._1_(1).jpg"
+   }
+  },
+  "hero-2024": {
+   "src": "media/scenes/hero-2024.webp",
+   "caption": "Red Bull RB20",
+   "place": "Silverstone · 2024",
+   "focus": "50% 60%",
+   "credit": {
+    "title": "2024 British Grand Prix, Verstappen (3).jpg",
+    "author": "Jen Ross",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2024_British_Grand_Prix,_Verstappen_(3).jpg"
+   }
+  },
+  "hero-2025": {
+   "src": "media/scenes/hero-2025.webp",
+   "caption": "McLaren MCL39",
+   "place": "Suzuka · 2025",
+   "focus": "50% 60%",
+   "credit": {
+    "title": "2025 Japan GP - McLaren - Lando Norris - FP1.jpg",
+    "author": "Liauzh",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2025_Japan_GP_-_McLaren_-_Lando_Norris_-_FP1.jpg"
+   }
+  },
+  "m2015-01": {
+   "src": "media/scenes/m2015-01.webp",
+   "caption": "Lewis Hamilton wins the season opener in Melbourne",
+   "place": "Round 1 · Australian GP",
+   "focus": "50% 55%",
+   "season": 2015,
+   "round": 1,
+   "kind": "opener",
+   "credit": {
+    "title": "Lewis Hamilton on Mercedes F1 W06 Hybrid 2015 Australian Grand Prix - Qualifying (16265819744).jpg",
+    "author": "Scott Cresswell from Melbourne, Australia",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Lewis_Hamilton_on_Mercedes_F1_W06_Hybrid_2015_Australian_Grand_Prix_-_Qualifying_(16265819744).jpg"
+   }
+  },
+  "m2015-03": {
+   "src": "media/scenes/m2015-03.webp",
+   "caption": "Lewis Hamilton wins the Chinese Grand Prix",
+   "place": "Round 3 · Chinese GP",
+   "focus": "50% 55%",
+   "season": 2015,
+   "round": 3,
+   "kind": "win",
+   "credit": {
+    "title": "Hamilton China 2015.jpg",
+    "author": "David Hernandez",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Hamilton_China_2015.jpg"
+   }
+  },
+  "m2015-04": {
+   "src": "media/scenes/m2015-04.webp",
+   "caption": "Lewis Hamilton wins the Bahrain Grand Prix",
+   "place": "Round 4 · Bahrain GP",
+   "focus": "50% 55%",
+   "season": 2015,
+   "round": 4,
+   "kind": "win",
+   "credit": {
+    "title": "Felipe Massa Bahrain 2015.jpg",
+    "author": "David Miras",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Felipe_Massa_Bahrain_2015.jpg"
+   }
+  },
+  "m2015-07": {
+   "src": "media/scenes/m2015-07.webp",
+   "caption": "Lewis Hamilton wins the Canadian Grand Prix",
+   "place": "Round 7 · Canadian GP",
+   "focus": "50% 55%",
+   "season": 2015,
+   "round": 7,
+   "kind": "win",
+   "credit": {
+    "title": "Hamilton Canada 2015.jpg",
+    "author": "Richard Paquet",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Hamilton_Canada_2015.jpg"
+   }
+  },
+  "m2015-09": {
+   "src": "media/scenes/m2015-09.webp",
+   "caption": "Lewis Hamilton wins the British Grand Prix",
+   "place": "Round 9 · British GP",
+   "focus": "50% 55%",
+   "season": 2015,
+   "round": 9,
+   "kind": "win",
+   "credit": {
+    "title": "Hamilton Britain 2015 victory.jpg",
+    "author": "Joel Spencer",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Hamilton_Britain_2015_victory.jpg"
+   }
+  },
+  "m2015-16": {
+   "src": "media/scenes/m2015-16.webp",
+   "caption": "Lewis Hamilton seals the 2015 title at the United States Grand Prix",
+   "place": "Round 16 · United States GP",
+   "focus": "50% 55%",
+   "season": 2015,
+   "round": 16,
+   "kind": "title",
+   "credit": {
+    "title": "Verstappen US GP 2015.jpg",
+    "author": "Joe McGowan",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Verstappen_US_GP_2015.jpg"
+   }
+  },
+  "m2016-01": {
+   "src": "media/scenes/m2016-01.webp",
+   "caption": "Nico Rosberg wins the season opener in Melbourne",
+   "place": "Round 1 · Australian GP",
+   "focus": "50% 55%",
+   "season": 2016,
+   "round": 1,
+   "kind": "opener",
+   "credit": {
+    "title": "Rosberg Hamilton - 2016 Monaco GP 2.jpg",
+    "author": "Andrew Locking",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Rosberg_Hamilton_-_2016_Monaco_GP_2.jpg"
+   }
+  },
+  "m2016-02": {
+   "src": "media/scenes/m2016-02.webp",
+   "caption": "Nico Rosberg wins the Bahrain Grand Prix",
+   "place": "Round 2 · Bahrain GP",
+   "focus": "50% 55%",
+   "season": 2016,
+   "round": 2,
+   "kind": "win",
+   "credit": {
+    "title": "Rosberg Bahrain 2016 1.jpg",
+    "author": "Dave Jefferys",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Rosberg_Bahrain_2016_1.jpg"
+   }
+  },
+  "m2016-03": {
+   "src": "media/scenes/m2016-03.webp",
+   "caption": "Nico Rosberg wins the Chinese Grand Prix",
+   "place": "Round 3 · Chinese GP",
+   "focus": "50% 55%",
+   "season": 2016,
+   "round": 3,
+   "kind": "win",
+   "credit": {
+    "title": "Max Verstappen (26754704080).jpg",
+    "author": "emperornie",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Max_Verstappen_(26754704080).jpg"
+   }
+  },
+  "m2016-04": {
+   "src": "media/scenes/m2016-04.webp",
+   "caption": "Nico Rosberg wins the Russian Grand Prix",
+   "place": "Round 4 · Russian GP",
+   "focus": "50% 55%",
+   "season": 2016,
+   "round": 4,
+   "kind": "win",
+   "credit": {
+    "title": "Back on the Grid 2016 Russian GP.jpg",
+    "author": "Dmitry Kabanov",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Back_on_the_Grid_2016_Russian_GP.jpg"
+   }
+  },
+  "m2016-05": {
+   "src": "media/scenes/m2016-05.webp",
+   "caption": "Verstappen wins on his Red Bull debut, aged 18",
+   "place": "Round 5 · Spanish GP",
+   "focus": "50% 55%",
+   "season": 2016,
+   "round": 5,
+   "kind": "headline",
+   "credit": {
+    "title": "Ricciardo Verstappen Vettel Spain 2016.jpg",
+    "author": "Alex Rushton",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Ricciardo_Verstappen_Vettel_Spain_2016.jpg"
+   }
+  },
+  "m2016-21": {
+   "src": "media/scenes/m2016-21.webp",
+   "caption": "Title goes down to the wire: Nico Rosberg crowned at the Abu Dhabi Grand Prix",
+   "place": "Round 21 · Abu Dhabi GP",
+   "focus": "50% 55%",
+   "season": 2016,
+   "round": 21,
+   "kind": "title",
+   "credit": {
+    "title": "Hamilton - 2016 Monaco GP 02.jpg",
+    "author": "Andrew Locking",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Hamilton_-_2016_Monaco_GP_02.jpg"
+   }
+  },
+  "m2017-01": {
+   "src": "media/scenes/m2017-01.webp",
+   "caption": "Sebastian Vettel wins the season opener in Melbourne",
+   "place": "Round 1 · Australian GP",
+   "focus": "50% 55%",
+   "season": 2017,
+   "round": 1,
+   "kind": "opener",
+   "credit": {
+    "title": "Sebastian Vettel (35434285224).jpg",
+    "author": "Jake Archibald from London, England",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Sebastian_Vettel_(35434285224).jpg"
+   }
+  },
+  "m2017-02": {
+   "src": "media/scenes/m2017-02.webp",
+   "caption": "Lewis Hamilton wins the Chinese Grand Prix",
+   "place": "Round 2 · Chinese GP",
+   "focus": "50% 55%",
+   "season": 2017,
+   "round": 2,
+   "kind": "win",
+   "credit": {
+    "title": "Lewis Hamilton (33261494083).jpg",
+    "author": "emperornie",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Lewis_Hamilton_(33261494083).jpg"
+   }
+  },
+  "m2017-05": {
+   "src": "media/scenes/m2017-05.webp",
+   "caption": "Lewis Hamilton wins the Spanish Grand Prix",
+   "place": "Round 5 · Spanish GP",
+   "focus": "50% 55%",
+   "season": 2017,
+   "round": 5,
+   "kind": "win",
+   "credit": {
+    "title": "Lewis Hamilton celebration, Malaysia GP 2017.jpg",
+    "author": "Liauzh",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Lewis_Hamilton_celebration,_Malaysia_GP_2017.jpg"
+   }
+  },
+  "m2017-07": {
+   "src": "media/scenes/m2017-07.webp",
+   "caption": "Lewis Hamilton wins the Canadian Grand Prix",
+   "place": "Round 7 · Canadian GP",
+   "focus": "50% 55%",
+   "season": 2017,
+   "round": 7,
+   "kind": "win",
+   "credit": {
+    "title": "Hamilton (38713243861).jpg",
+    "author": "Steve_Melnyk",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Hamilton_(38713243861).jpg"
+   }
+  },
+  "m2017-10": {
+   "src": "media/scenes/m2017-10.webp",
+   "caption": "Lewis Hamilton wins the British Grand Prix",
+   "place": "Round 10 · British GP",
+   "focus": "50% 55%",
+   "season": 2017,
+   "round": 10,
+   "kind": "win",
+   "credit": {
+    "title": "2017 British GP - Vettel's Ferrari SF70H with 'Shield' system (1).jpg",
+    "author": "Stephen Grimes",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2017_British_GP_-_Vettel%27s_Ferrari_SF70H_with_%27Shield%27_system_(1).jpg"
+   }
+  },
+  "m2018-01": {
+   "src": "media/scenes/m2018-01.webp",
+   "caption": "Sebastian Vettel wins the season opener in Melbourne",
+   "place": "Round 1 · Australian GP",
+   "focus": "50% 55%",
+   "season": 2018,
+   "round": 1,
+   "kind": "opener",
+   "credit": {
+    "title": "2018 Spanish Grand Prix Vettel (1).jpg",
+    "author": "Anyul Rivas",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2018_Spanish_Grand_Prix_Vettel_(1).jpg"
+   }
+  },
+  "m2018-04": {
+   "src": "media/scenes/m2018-04.webp",
+   "caption": "Lewis Hamilton wins the Azerbaijan Grand Prix",
+   "place": "Round 4 · Azerbaijan GP",
+   "focus": "50% 55%",
+   "season": 2018,
+   "round": 4,
+   "kind": "win",
+   "credit": {
+    "title": "Lewis Hamilton 2018 Azerbaijan GP.jpg",
+    "author": "ibrahimferhadli",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Lewis_Hamilton_2018_Azerbaijan_GP.jpg"
+   }
+  },
+  "m2018-05": {
+   "src": "media/scenes/m2018-05.webp",
+   "caption": "Lewis Hamilton wins the Spanish Grand Prix",
+   "place": "Round 5 · Spanish GP",
+   "focus": "50% 55%",
+   "season": 2018,
+   "round": 5,
+   "kind": "win",
+   "credit": {
+    "title": "2018 Spanish Grand Prix Hamilton (1).jpg",
+    "author": "Anyul Rivas",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2018_Spanish_Grand_Prix_Hamilton_(1).jpg"
+   }
+  },
+  "m2018-08": {
+   "src": "media/scenes/m2018-08.webp",
+   "caption": "Lewis Hamilton wins the French Grand Prix",
+   "place": "Round 8 · French GP",
+   "focus": "50% 55%",
+   "season": 2018,
+   "round": 8,
+   "kind": "win",
+   "credit": {
+    "title": "2018 British Grand Prix Hamilton (43741669991).jpg",
+    "author": "Jen_ross83",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2018_British_Grand_Prix_Hamilton_(43741669991).jpg"
+   }
+  },
+  "m2018-11": {
+   "src": "media/scenes/m2018-11.webp",
+   "caption": "Lewis Hamilton wins the German Grand Prix from P14 on the grid",
+   "place": "Round 11 · German GP",
+   "focus": "50% 55%",
+   "season": 2018,
+   "round": 11,
+   "kind": "comeback",
+   "credit": {
+    "title": "Lewis Hamilton, Silverstone, British GP 2018 (43741672771).jpg",
+    "author": "Jen Ross",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Lewis_Hamilton,_Silverstone,_British_GP_2018_(43741672771).jpg"
+   }
+  },
+  "m2018-19": {
+   "src": "media/scenes/m2018-19.webp",
+   "caption": "Lewis Hamilton seals the 2018 title at the Mexican Grand Prix",
+   "place": "Round 19 · Mexican GP",
+   "focus": "50% 55%",
+   "season": 2018,
+   "round": 19,
+   "kind": "title",
+   "credit": {
+    "title": "2018 Spanish Grand Prix Verstappen (1).jpg",
+    "author": "Anyul Rivas",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2018_Spanish_Grand_Prix_Verstappen_(1).jpg"
+   }
+  },
+  "m2019-01": {
+   "src": "media/scenes/m2019-01.webp",
+   "caption": "Valtteri Bottas wins the season opener in Melbourne",
+   "place": "Round 1 · Australian GP",
+   "focus": "50% 55%",
+   "season": 2019,
+   "round": 1,
+   "kind": "opener",
+   "credit": {
+    "title": "2019 Canadian Grand Prix Bottas (48089394381).jpg",
+    "author": "https://www.flickr.com/photos/steve-melnyk/",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2019_Canadian_Grand_Prix_Bottas_(48089394381).jpg"
+   }
+  },
+  "m2019-03": {
+   "src": "media/scenes/m2019-03.webp",
+   "caption": "Lewis Hamilton wins the Chinese Grand Prix",
+   "place": "Round 3 · Chinese GP",
+   "focus": "50% 55%",
+   "season": 2019,
+   "round": 3,
+   "kind": "win",
+   "credit": {
+    "title": "2019 Chinese Grand Prix Hamilton (47611075911).jpg",
+    "author": "https://www.flickr.com/photos/77326563@N06/",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2019_Chinese_Grand_Prix_Hamilton_(47611075911).jpg"
+   }
+  },
+  "m2019-07": {
+   "src": "media/scenes/m2019-07.webp",
+   "caption": "Lewis Hamilton wins the Canadian Grand Prix",
+   "place": "Round 7 · Canadian GP",
+   "focus": "50% 55%",
+   "season": 2019,
+   "round": 7,
+   "kind": "win",
+   "credit": {
+    "title": "2019 Canadian Grand Prix Hamilton (48089447432).jpg",
+    "author": "https://www.flickr.com/photos/steve-melnyk/",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2019_Canadian_Grand_Prix_Hamilton_(48089447432).jpg"
+   }
+  },
+  "m2019-12": {
+   "src": "media/scenes/m2019-12.webp",
+   "caption": "Lewis Hamilton wins the Hungarian Grand Prix",
+   "place": "Round 12 · Hungarian GP",
+   "focus": "50% 55%",
+   "season": 2019,
+   "round": 12,
+   "kind": "win",
+   "credit": {
+    "title": "Lewis Hamilton during Hungarian Formula 1 GP.jpg",
+    "author": "Michał Obrochta",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Lewis_Hamilton_during_Hungarian_Formula_1_GP.jpg"
+   }
+  },
+  "m2019-13": {
+   "src": "media/scenes/m2019-13.webp",
+   "caption": "Charles Leclerc takes a first Grand Prix win in Spa",
+   "place": "Round 13 · Belgian GP",
+   "focus": "50% 55%",
+   "season": 2019,
+   "round": 13,
+   "kind": "maiden",
+   "credit": {
+    "title": "2019 Chinese Grand Prix Leclerc (47583134682).jpg",
+    "author": "https://www.flickr.com/photos/77326563@N06/",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2019_Chinese_Grand_Prix_Leclerc_(47583134682).jpg"
+   }
+  },
+  "m2019-19": {
+   "src": "media/scenes/m2019-19.webp",
+   "caption": "Lewis Hamilton seals the 2019 title at the United States Grand Prix",
+   "place": "Round 19 · United States GP",
+   "focus": "50% 55%",
+   "season": 2019,
+   "round": 19,
+   "kind": "title",
+   "credit": {
+    "title": "2019 Chinese Grand Prix Bottas (46683739015).jpg",
+    "author": "https://www.flickr.com/photos/77326563@N06/",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2019_Chinese_Grand_Prix_Bottas_(46683739015).jpg"
+   }
+  },
+  "m2020-01": {
+   "src": "media/scenes/m2020-01.webp",
+   "caption": "Valtteri Bottas wins the season opener in Spielberg",
+   "place": "Round 1 · Austrian GP",
+   "focus": "50% 55%",
+   "season": 2020,
+   "round": 1,
+   "kind": "opener",
+   "credit": {
+    "title": "Valtteri Bottas 2020 Tuscan Grand Prix - race day.jpg",
+    "author": "Eustace Bagge",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Valtteri_Bottas_2020_Tuscan_Grand_Prix_-_race_day.jpg"
+   }
+  },
+  "m2020-08": {
+   "src": "media/scenes/m2020-08.webp",
+   "caption": "Pierre Gasly takes a first Grand Prix win in Monza",
+   "place": "Round 8 · Italian GP",
+   "focus": "50% 55%",
+   "season": 2020,
+   "round": 8,
+   "kind": "maiden",
+   "credit": {
+    "title": "Honda RACING Gallery 2020 AlphaTauri AT01 Pierre Gasly.jpg",
+    "author": "BWard 1997",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Honda_RACING_Gallery_2020_AlphaTauri_AT01_Pierre_Gasly.jpg"
+   }
+  },
+  "m2020-09": {
+   "src": "media/scenes/m2020-09.webp",
+   "caption": "Lewis Hamilton wins the Tuscan Grand Prix",
+   "place": "Round 9 · Tuscan GP",
+   "focus": "50% 55%",
+   "season": 2020,
+   "round": 9,
+   "kind": "win",
+   "credit": {
+    "title": "Lewis Hamilton 2020 Tuscan Grand Prix - race day.jpg",
+    "author": "Eustace Bagge",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Lewis_Hamilton_2020_Tuscan_Grand_Prix_-_race_day.jpg"
+   }
+  },
+  "m2020-16": {
+   "src": "media/scenes/m2020-16.webp",
+   "caption": "Pérez fights back from last place on lap one to take his first win",
+   "place": "Round 16 · Sakhir GP",
+   "focus": "50% 55%",
+   "season": 2020,
+   "round": 16,
+   "kind": "headline",
+   "credit": {
+    "title": "2020 Formula One tests Barcelona, Racing Point RP20, Pérez.jpg",
+    "author": "Artes Max from Spain",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2020_Formula_One_tests_Barcelona,_Racing_Point_RP20,_P%C3%A9rez.jpg"
+   }
+  },
+  "m2021-02": {
+   "src": "media/scenes/m2021-02.webp",
+   "caption": "Max Verstappen wins the Emilia Romagna Grand Prix",
+   "place": "Round 2 · Emilia Romagna GP",
+   "focus": "50% 55%",
+   "season": 2021,
+   "round": 2,
+   "kind": "win",
+   "credit": {
+    "title": "FIA F1 Austria 2021 Nr. 33 Verstappen.jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2021_Nr._33_Verstappen.jpg"
+   }
+  },
+  "m2021-05": {
+   "src": "media/scenes/m2021-05.webp",
+   "caption": "Max Verstappen wins the Monaco Grand Prix",
+   "place": "Round 5 · Monaco GP",
+   "focus": "50% 55%",
+   "season": 2021,
+   "round": 5,
+   "kind": "win",
+   "credit": {
+    "title": "FIA F1 Austria 2021 Nr. 33 Verstappen (side).jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2021_Nr._33_Verstappen_(side).jpg"
+   }
+  },
+  "m2021-07": {
+   "src": "media/scenes/m2021-07.webp",
+   "caption": "Max Verstappen wins the French Grand Prix",
+   "place": "Round 7 · French GP",
+   "focus": "50% 55%",
+   "season": 2021,
+   "round": 7,
+   "kind": "win",
+   "credit": {
+    "title": "FIA F1 Austria 2021 Nr. 33 Verstappen (corner).jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2021_Nr._33_Verstappen_(corner).jpg"
+   }
+  },
+  "m2021-11": {
+   "src": "media/scenes/m2021-11.webp",
+   "caption": "Esteban Ocon takes a first Grand Prix win in Budapest",
+   "place": "Round 11 · Hungarian GP",
+   "focus": "50% 55%",
+   "season": 2021,
+   "round": 11,
+   "kind": "maiden",
+   "credit": {
+    "title": "FIA F1 Austria 2021 Nr. 31 Ocon (side).jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2021_Nr._31_Ocon_(side).jpg"
+   }
+  },
+  "m2021-19": {
+   "src": "media/scenes/m2021-19.webp",
+   "caption": "Lewis Hamilton wins the São Paulo Grand Prix from P10 on the grid",
+   "place": "Round 19 · São Paulo GP",
+   "focus": "50% 55%",
+   "season": 2021,
+   "round": 19,
+   "kind": "comeback",
+   "credit": {
+    "title": "FIA F1 Austria 2021 Nr. 44 Hamilton (side).jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2021_Nr._44_Hamilton_(side).jpg"
+   }
+  },
+  "m2021-22": {
+   "src": "media/scenes/m2021-22.webp",
+   "caption": "Last-lap showdown: Verstappen passes Hamilton to win his first title",
+   "place": "Round 22 · Abu Dhabi GP",
+   "focus": "50% 55%",
+   "season": 2021,
+   "round": 22,
+   "kind": "headline",
+   "credit": {
+    "title": "Red Bull's 2021 RB16 Formula 1 Car Driven by Max Verstappen and Sergio Perez (52338795261).jpg",
+    "author": "David Merrett from Daventry, England",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Red_Bull%27s_2021_RB16_Formula_1_Car_Driven_by_Max_Verstappen_and_Sergio_Perez_(52338795261).jpg"
+   }
+  },
+  "m2022-01": {
+   "src": "media/scenes/m2022-01.webp",
+   "caption": "Charles Leclerc wins the season opener in Sakhir",
+   "place": "Round 1 · Bahrain GP",
+   "focus": "50% 55%",
+   "season": 2022,
+   "round": 1,
+   "kind": "opener",
+   "credit": {
+    "title": "FIA F1 Austria 2022 Podium Race Winner Leclerc.jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2022_Podium_Race_Winner_Leclerc.jpg"
+   }
+  },
+  "m2022-02": {
+   "src": "media/scenes/m2022-02.webp",
+   "caption": "Max Verstappen wins the Saudi Arabian Grand Prix",
+   "place": "Round 2 · Saudi Arabian GP",
+   "focus": "50% 55%",
+   "season": 2022,
+   "round": 2,
+   "kind": "win",
+   "credit": {
+    "title": "FIA F1 Austria 2022 Nr. 1 Verstappen.jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2022_Nr._1_Verstappen.jpg"
+   }
+  },
+  "m2022-13": {
+   "src": "media/scenes/m2022-13.webp",
+   "caption": "Max Verstappen wins the Hungarian Grand Prix from P10 on the grid",
+   "place": "Round 13 · Hungarian GP",
+   "focus": "50% 55%",
+   "season": 2022,
+   "round": 13,
+   "kind": "comeback",
+   "credit": {
+    "title": "FIA F1 Austria 2022 Nr. 1 Verstappen (side).jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2022_Nr._1_Verstappen_(side).jpg"
+   }
+  },
+  "m2022-14": {
+   "src": "media/scenes/m2022-14.webp",
+   "caption": "Max Verstappen wins the Belgian Grand Prix from P14 on the grid",
+   "place": "Round 14 · Belgian GP",
+   "focus": "50% 55%",
+   "season": 2022,
+   "round": 14,
+   "kind": "comeback",
+   "credit": {
+    "title": "FIA F1 Austria 2022 Nr. 1 Verstappen (side 2).jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2022_Nr._1_Verstappen_(side_2).jpg"
+   }
+  },
+  "m2022-18": {
+   "src": "media/scenes/m2022-18.webp",
+   "caption": "Max Verstappen seals the 2022 title at the Japanese Grand Prix",
+   "place": "Round 18 · Japanese GP",
+   "focus": "50% 55%",
+   "season": 2022,
+   "round": 18,
+   "kind": "title",
+   "credit": {
+    "title": "Mick Schumacher of Haas battles for position with Red Bull's Max Verstappen en route to his first points finish in F1 at the 2022 British Grand Prix (52196622846).jpg",
+    "author": "fuji.tim",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mick_Schumacher_of_Haas_battles_for_position_with_Red_Bull%27s_Max_Verstappen_en_route_to_his_first_points_finish_in_F1_at_the_2022_British_Grand_Prix_(52196622846).jpg"
+   }
+  },
+  "m2022-21": {
+   "src": "media/scenes/m2022-21.webp",
+   "caption": "George Russell takes a first Grand Prix win in São Paulo",
+   "place": "Round 21 · São Paulo GP",
+   "focus": "50% 55%",
+   "season": 2022,
+   "round": 21,
+   "kind": "maiden",
+   "credit": {
+    "title": "Charles Leclerc - Ferrari (52499502495).jpg",
+    "author": "Leandro Neumann Ciuffo",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Charles_Leclerc_-_Ferrari_(52499502495).jpg"
+   }
+  },
+  "m2023-05": {
+   "src": "media/scenes/m2023-05.webp",
+   "caption": "Max Verstappen wins the Miami Grand Prix",
+   "place": "Round 5 · Miami GP",
+   "focus": "50% 55%",
+   "season": 2023,
+   "round": 5,
+   "kind": "win",
+   "credit": {
+    "title": "Miami Grand Prix startfinish.jpg",
+    "author": "Bassfish22",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Miami_Grand_Prix_startfinish.jpg"
+   }
+  },
+  "m2023-09": {
+   "src": "media/scenes/m2023-09.webp",
+   "caption": "Max Verstappen wins the Austrian Grand Prix",
+   "place": "Round 9 · Austrian GP",
+   "focus": "50% 55%",
+   "season": 2023,
+   "round": 9,
+   "kind": "win",
+   "credit": {
+    "title": "FIA F1 Austria 2023 Nr. 1 (1).jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2023_Nr._1_(1).jpg"
+   }
+  },
+  "m2023-14": {
+   "src": "media/scenes/m2023-14.webp",
+   "caption": "Max Verstappen wins the Italian Grand Prix",
+   "place": "Round 14 · Italian GP",
+   "focus": "50% 55%",
+   "season": 2023,
+   "round": 14,
+   "kind": "win",
+   "credit": {
+    "title": "Alexander Albon - 2023 Italian Grand Prix.jpg",
+    "author": "Eustace Bagge",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Alexander_Albon_-_2023_Italian_Grand_Prix.jpg"
+   }
+  },
+  "m2023-17": {
+   "src": "media/scenes/m2023-17.webp",
+   "caption": "Max Verstappen seals the 2023 title at the Qatar Grand Prix",
+   "place": "Round 17 · Qatar GP",
+   "focus": "50% 55%",
+   "season": 2023,
+   "round": 17,
+   "kind": "title",
+   "credit": {
+    "title": "FIA F1 Austria 2023 Max Verstappen.jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2023_Max_Verstappen.jpg"
+   }
+  },
+  "m2024-01": {
+   "src": "media/scenes/m2024-01.webp",
+   "caption": "Max Verstappen wins the season opener in Sakhir",
+   "place": "Round 1 · Bahrain GP",
+   "focus": "50% 55%",
+   "season": 2024,
+   "round": 1,
+   "kind": "opener",
+   "credit": {
+    "title": "2024 British Grand Prix, Verstappen (2).jpg",
+    "author": "Jen Ross",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2024_British_Grand_Prix,_Verstappen_(2).jpg"
+   }
+  },
+  "m2024-02": {
+   "src": "media/scenes/m2024-02.webp",
+   "caption": "Max Verstappen wins the Saudi Arabian Grand Prix",
+   "place": "Round 2 · Saudi Arabian GP",
+   "focus": "50% 55%",
+   "season": 2024,
+   "round": 2,
+   "kind": "win",
+   "credit": {
+    "title": "2024 British Grand Prix, Verstappen (1).jpg",
+    "author": "Jen Ross",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2024_British_Grand_Prix,_Verstappen_(1).jpg"
+   }
+  },
+  "m2024-06": {
+   "src": "media/scenes/m2024-06.webp",
+   "caption": "Lando Norris takes a first Grand Prix win in Miami",
+   "place": "Round 6 · Miami GP",
+   "focus": "50% 55%",
+   "season": 2024,
+   "round": 6,
+   "kind": "maiden",
+   "credit": {
+    "title": "Start-Finish Straight at the 2024 Miami Grand Prix.jpg",
+    "author": "Bassfish22",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Start-Finish_Straight_at_the_2024_Miami_Grand_Prix.jpg"
+   }
+  },
+  "m2024-13": {
+   "src": "media/scenes/m2024-13.webp",
+   "caption": "Oscar Piastri takes a first Grand Prix win in Budapest",
+   "place": "Round 13 · Hungarian GP",
+   "focus": "50% 55%",
+   "season": 2024,
+   "round": 13,
+   "kind": "maiden",
+   "credit": {
+    "title": "Norris & Piastri on the grid - Chinese GP 2024.jpg",
+    "author": "Liauzh",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Norris_%26_Piastri_on_the_grid_-_Chinese_GP_2024.jpg"
+   }
+  },
+  "m2024-21": {
+   "src": "media/scenes/m2024-21.webp",
+   "caption": "Max Verstappen wins the São Paulo Grand Prix from P17 on the grid",
+   "place": "Round 21 · São Paulo GP",
+   "focus": "50% 55%",
+   "season": 2024,
+   "round": 21,
+   "kind": "comeback",
+   "credit": {
+    "title": "2024 British Grand Prix, Verstappen (3).jpg",
+    "author": "Jen Ross",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2024_British_Grand_Prix,_Verstappen_(3).jpg"
+   }
+  },
+  "m2024-22": {
+   "src": "media/scenes/m2024-22.webp",
+   "caption": "Max Verstappen seals the 2024 title at the Las Vegas Grand Prix",
+   "place": "Round 22 · Las Vegas GP",
+   "focus": "50% 55%",
+   "season": 2024,
+   "round": 22,
+   "kind": "title",
+   "credit": {
+    "title": "2024 British Grand Prix, Russell (7).jpg",
+    "author": "Jen Ross",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2024_British_Grand_Prix,_Russell_(7).jpg"
+   }
+  },
+  "m2025-01": {
+   "src": "media/scenes/m2025-01.webp",
+   "caption": "Lando Norris wins the season opener in Melbourne",
+   "place": "Round 1 · Australian GP",
+   "focus": "50% 55%",
+   "season": 2025,
+   "round": 1,
+   "kind": "opener",
+   "credit": {
+    "title": "FIA F1 Imola 2025 No. 4 Norris.jpg",
+    "author": "Jen_ross83",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Imola_2025_No._4_Norris.jpg"
+   }
+  },
+  "m2025-08": {
+   "src": "media/scenes/m2025-08.webp",
+   "caption": "Lando Norris wins the Monaco Grand Prix",
+   "place": "Round 8 · Monaco GP",
+   "focus": "50% 55%",
+   "season": 2025,
+   "round": 8,
+   "kind": "win",
+   "credit": {
+    "title": "FIA F1 Austria 2025 Nr. 4 Norris.jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2025_Nr._4_Norris.jpg"
+   }
+  },
+  "m2025-11": {
+   "src": "media/scenes/m2025-11.webp",
+   "caption": "Lando Norris wins the Austrian Grand Prix",
+   "place": "Round 11 · Austrian GP",
+   "focus": "50% 55%",
+   "season": 2025,
+   "round": 11,
+   "kind": "win",
+   "credit": {
+    "title": "FIA F1 Austria 2025 Nr. 5 Bortoleto.jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2025_Nr._5_Bortoleto.jpg"
+   }
+  },
+  "m2025-12": {
+   "src": "media/scenes/m2025-12.webp",
+   "caption": "Lando Norris wins the British Grand Prix",
+   "place": "Round 12 · British GP",
+   "focus": "50% 55%",
+   "season": 2025,
+   "round": 12,
+   "kind": "win",
+   "credit": {
+    "title": "FIA F1 Imola 2025 No. 4 Norris (2).jpg",
+    "author": "Jen_ross83",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Imola_2025_No._4_Norris_(2).jpg"
+   }
+  },
+  "m2025-24": {
+   "src": "media/scenes/m2025-24.webp",
+   "caption": "Title goes down to the wire: Lando Norris crowned at the Abu Dhabi Grand Prix",
+   "place": "Round 24 · Abu Dhabi GP",
+   "focus": "50% 55%",
+   "season": 2025,
+   "round": 24,
+   "kind": "title",
+   "credit": {
+    "title": "FIA F1 Imola 2025 No. 1 Verstappen.jpg",
+    "author": "Jen_ross83",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Imola_2025_No._1_Verstappen.jpg"
+   }
+  },
+  "m2026-01": {
+   "src": "media/scenes/m2026-01.webp",
+   "caption": "George Russell wins the season opener in Melbourne",
+   "place": "Round 1 · Australian GP",
+   "focus": "50% 55%",
+   "season": 2026,
+   "round": 1,
+   "kind": "opener",
+   "credit": {
+    "title": "Mercedes-AMG F1 W17 E Performance of George Russell (028A8068).jpg",
+    "author": "Yu Chu Chin",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_F1_W17_E_Performance_of_George_Russell_(028A8068).jpg"
+   }
+  },
+  "m2026-02": {
+   "src": "media/scenes/m2026-02.webp",
+   "caption": "Andrea Kimi Antonelli takes a first Grand Prix win in Shanghai",
+   "place": "Round 2 · Chinese GP",
+   "focus": "50% 55%",
+   "season": 2026,
+   "round": 2,
+   "kind": "maiden",
+   "credit": {
+    "title": "2026 Chinese GP - Mercedes - Kimi Antonelli - Post Race Celebration.jpg",
+    "author": "Liauzh",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2026_Chinese_GP_-_Mercedes_-_Kimi_Antonelli_-_Post_Race_Celebration.jpg"
+   }
+  },
+  "m2026-03": {
+   "src": "media/scenes/m2026-03.webp",
+   "caption": "Andrea Kimi Antonelli wins the Japanese Grand Prix",
+   "place": "Round 3 · Japanese GP",
+   "focus": "50% 55%",
+   "season": 2026,
+   "round": 3,
+   "kind": "win",
+   "credit": {
+    "title": "Mercedes W17 - Kimi Antonelli approaches Spoon Curve at Suzuka during the 2026 Japanese GP (55194289192).jpg",
+    "author": "Martin Lee from London, UK",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mercedes_W17_-_Kimi_Antonelli_approaches_Spoon_Curve_at_Suzuka_during_the_2026_Japanese_GP_(55194289192).jpg"
+   }
+  },
+  "m2026-04": {
+   "src": "media/scenes/m2026-04.webp",
+   "caption": "Andrea Kimi Antonelli wins the Miami Grand Prix",
+   "place": "Round 4 · Miami GP",
+   "focus": "50% 55%",
+   "season": 2026,
+   "round": 4,
+   "kind": "win",
+   "credit": {
+    "title": "FIA F1 Austria 2026 Nr. 12 Antonelli (4).jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._12_Antonelli_(4).jpg"
+   }
+  },
+  "m2026-05": {
+   "src": "media/scenes/m2026-05.webp",
+   "caption": "Andrea Kimi Antonelli wins the Canadian Grand Prix",
+   "place": "Round 5 · Canadian GP",
+   "focus": "50% 55%",
+   "season": 2026,
+   "round": 5,
+   "kind": "win",
+   "credit": {
+    "title": "Kimi Antonelli at the Melbourne Walk during the 2026 Australian Grand Prix (028A7922).jpg",
+    "author": "Yu Chu Chin",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kimi_Antonelli_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_(028A7922).jpg"
+   }
+  },
+  "m2026-13": {
+   "src": "media/scenes/m2026-13.webp",
+   "caption": "Andrea Kimi Antonelli wins the Italian Grand Prix from P19 on the grid",
+   "place": "Round 13 · Italian GP",
+   "focus": "50% 55%",
+   "season": 2026,
+   "round": 13,
+   "kind": "comeback",
+   "credit": {
+    "title": "FIA F1 Austria 2026 Nr. 12 Antonelli (3).jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._12_Antonelli_(3).jpg"
+   }
+  }
+ }
+}

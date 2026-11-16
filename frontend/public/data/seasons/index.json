@@ -1,0 +1,233 @@
+{
+ "current": 2026,
+ "seasons": [
+  {
+   "season": 2015,
+   "round": 19,
+   "totalRounds": 19,
+   "complete": true,
+   "driver": {
+    "id": "hamilton",
+    "code": "HAM",
+    "name": "Lewis Hamilton",
+    "teamId": "mercedes",
+    "points": 381.0,
+    "wins": 10
+   },
+   "constructor": {
+    "id": "mercedes",
+    "name": "Mercedes",
+    "points": 703.0
+   }
+  },
+  {
+   "season": 2016,
+   "round": 21,
+   "totalRounds": 21,
+   "complete": true,
+   "driver": {
+    "id": "rosberg",
+    "code": "ROS",
+    "name": "Nico Rosberg",
+    "teamId": "mercedes",
+    "points": 385.0,
+    "wins": 9
+   },
+   "constructor": {
+    "id": "mercedes",
+    "name": "Mercedes",
+    "points": 765.0
+   }
+  },
+  {
+   "season": 2017,
+   "round": 20,
+   "totalRounds": 20,
+   "complete": true,
+   "driver": {
+    "id": "hamilton",
+    "code": "HAM",
+    "name": "Lewis Hamilton",
+    "teamId": "mercedes",
+    "points": 363.0,
+    "wins": 9
+   },
+   "constructor": {
+    "id": "mercedes",
+    "name": "Mercedes",
+    "points": 668.0
+   }
+  },
+  {
+   "season": 2018,
+   "round": 21,
+   "totalRounds": 21,
+   "complete": true,
+   "driver": {
+    "id": "hamilton",
+    "code": "HAM",
+    "name": "Lewis Hamilton",
+    "teamId": "mercedes",
+    "points": 408.0,
+    "wins": 11
+   },
+   "constructor": {
+    "id": "mercedes",
+    "name": "Mercedes",
+    "points": 655.0
+   }
+  },
+  {
+   "season": 2019,
+   "round": 21,
+   "totalRounds": 21,
+   "complete": true,
+   "driver": {
+    "id": "hamilton",
+    "code": "HAM",
+    "name": "Lewis Hamilton",
+    "teamId": "mercedes",
+    "points": 413.0,
+    "wins": 11
+   },
+   "constructor": {
+    "id": "mercedes",
+    "name": "Mercedes",
+    "points": 739.0
+   }
+  },
+  {
+   "season": 2020,
+   "round": 17,
+   "totalRounds": 17,
+   "complete": true,
+   "driver": {
+    "id": "hamilton",
+    "code": "HAM",
+    "name": "Lewis Hamilton",
+    "teamId": "mercedes",
+    "points": 347.0,
+    "wins": 11
+   },
+   "constructor": {
+    "id": "mercedes",
+    "name": "Mercedes",
+    "points": 573.0
+   }
+  },
+  {
+   "season": 2021,
+   "round": 22,
+   "totalRounds": 22,
+   "complete": true,
+   "driver": {
+    "id": "max_verstappen",
+    "code": "VER",
+    "name": "Max Verstappen",
+    "teamId": "red_bull",
+    "points": 395.5,
+    "wins": 10
+   },
+   "constructor": {
+    "id": "mercedes",
+    "name": "Mercedes",
+    "points": 613.5
+   }
+  },
+  {
+   "season": 2022,
+   "round": 22,
+   "totalRounds": 22,
+   "complete": true,
+   "driver": {
+    "id": "max_verstappen",
+    "code": "VER",
+    "name": "Max Verstappen",
+    "teamId": "red_bull",
+    "points": 454.0,
+    "wins": 15
+   },
+   "constructor": {
+    "id": "red_bull",
+    "name": "Red Bull",
+    "points": 759.0
+   }
+  },
+  {
+   "season": 2023,
+   "round": 22,
+   "totalRounds": 22,
+   "complete": true,
+   "driver": {
+    "id": "max_verstappen",
+    "code": "VER",
+    "name": "Max Verstappen",
+    "teamId": "red_bull",
+    "points": 575.0,
+    "wins": 19
+   },
+   "constructor": {
+    "id": "red_bull",
+    "name": "Red Bull",
+    "points": 860.0
+   }
+  },
+  {
+   "season": 2024,
+   "round": 24,
+   "totalRounds": 24,
+   "complete": true,
+   "driver": {
+    "id": "max_verstappen",
+    "code": "VER",
+    "name": "Max Verstappen",
+    "teamId": "red_bull",
+    "points": 437.0,
+    "wins": 9
+   },
+   "constructor": {
+    "id": "mclaren",
+    "name": "McLaren",
+    "points": 666.0
+   }
+  },
+  {
+   "season": 2025,
+   "round": 24,
+   "totalRounds": 24,
+   "complete": true,
+   "driver": {
+    "id": "norris",
+    "code": "NOR",
+    "name": "Lando Norris",
+    "teamId": "mclaren",
+    "points": 423.0,
+    "wins": 7
+   },
+   "constructor": {
+    "id": "mclaren",
+    "name": "McLaren",
+    "points": 833.0
+   }
+  },
+  {
+   "season": 2026,
+   "round": 20,
+   "totalRounds": 23,
+   "complete": false,
+   "driver": {
+    "id": "antonelli",
+    "code": "ANT",
+    "name": "Andrea Kimi Antonelli",
+    "teamId": "mercedes",
+    "points": 390.0,
+    "wins": 9
+   },
+   "constructor": {
+    "id": "mercedes",
+    "name": "Mercedes",
+    "points": 652.0
+   }
+  }
+ ]
+}

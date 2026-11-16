@@ -1,0 +1,6 @@
+node_modules
+dist
+public/media/**/*.src.*
+# official F1 photos: (c) FOM, keep local
+public/media/overrides/drivers/
+public/media/overrides/drivers_half/
