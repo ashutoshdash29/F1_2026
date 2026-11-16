@@ -22,7 +22,8 @@ if [ -z "${SKIP_BUILD:-}" ]; then
 fi
 
 echo "==> Uploading frontend/dist to $HOST:~/$REMOTE_DIR"
-$SSH "$HOST" "mkdir -p ~/$REMOTE_DIR"
+# Docker creates a missing bind-mount folder as root; take it back if so.
+$SSH "$HOST" "mkdir -p ~/$REMOTE_DIR 2>/dev/null; [ -w ~/$REMOTE_DIR ] || sudo chown \$(id -u):\$(id -g) ~/$REMOTE_DIR"
 rsync -az --delete -e "$SSH" frontend/dist/ "$HOST:~/$REMOTE_DIR/"
 
 DOMAIN=$($SSH "$HOST" "sed -n 's/^DOMAIN=//p' ~/login-app/.env | tail -1")
